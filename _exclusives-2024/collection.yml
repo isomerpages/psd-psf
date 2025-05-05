@@ -2,4 +2,5 @@ collections:
   exclusives-2024:
     output: true
     order:
+      - Deals & Promotions.md
       - Social and Wellness Activities.md
