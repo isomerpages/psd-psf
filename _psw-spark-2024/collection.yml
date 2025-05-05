@@ -2,4 +2,5 @@ collections:
   psw-spark-2024:
     output: true
     order:
+      - One Public Service Quiz.md
       - "About Spark: Public Service Week Opening.md"
