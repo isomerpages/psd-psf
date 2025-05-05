@@ -2,4 +2,5 @@ collections:
   pswlf-2024:
     output: true
     order:
+      - Day 2, 25 July.md
       - Day 3, 26 July.md
