@@ -1,4 +1,5 @@
 collections:
   pswlf-2024:
     output: true
-    order: []
+    order:
+      - Day 3, 26 July.md
