@@ -2,4 +2,5 @@ collections:
   pstc-2024:
     output: true
     order:
+      - Breakout Sessions.md
       - Frequently Asked Questions (FAQs).md
