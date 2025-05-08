@@ -1,8 +1,6 @@
 logo: /images/pst_logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: EXPLORE EVENTS
+    collection: celebrate-together
+  - title: EXCLUSIVELY FOR YOU
+    collection: exclusively-for-you
