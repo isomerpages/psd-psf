@@ -27,7 +27,7 @@ sections:
         - title: Sports & Family Day
           description: 26 July
           url: /sports-family-day-26-july/
-      variant: side
+      variant: center
       size: md
       alignment: left
       backgroundColor: gray
