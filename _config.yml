@@ -3,7 +3,7 @@ url: https://publicservicefestival.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#f5a623"
-  secondary-color: "#f8e71c"
+  secondary-color: "#4a90e2"
   media-colors:
     - title: media-color-one
       color: "#d0021b"
