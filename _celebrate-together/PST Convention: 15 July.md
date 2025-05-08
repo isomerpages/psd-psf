@@ -40,4 +40,52 @@ on the 3Ws: Work, Workforce, Workplace</p>
 sector leaders</p>
 </li>
 </ul>
+<h3>Keynote Speakers</h3>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Name of Speaker</div>
+<div class="isomer-card-description">What is the speaker talking about</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Name of Speaker</div>
+<div class="isomer-card-description">What is it about</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Name of Speaker</div>
+<div class="isomer-card-description">What is this about?</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="l" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Name of Speaker</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+</div>
+</div>
+</div>
 <p></p>
