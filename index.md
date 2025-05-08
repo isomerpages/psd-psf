@@ -40,7 +40,7 @@ sections:
         shape a better future together.
       alt: Image alt text
       image: /images/PSF_logo.png
-      url: WWW.GO.GOV.SG/PSF2025
+      url: https://go.gov.sg/psf2025
       button: REGISTER NOW
   - announcements:
       title: It's Your Public Service Festival!
@@ -94,5 +94,5 @@ sections:
       alt: Image alt text
       subtitle: About
       button: REGISTER NOW
-      url: WWW.GO.GOV.SG/PSF2025
+      url: https://go.gov.sg/psf2025
 ---
