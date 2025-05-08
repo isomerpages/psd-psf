@@ -1,4 +1,5 @@
 collections:
   exclusively-for-you:
     output: true
-    order: []
+    order:
+      - Learning Journeys.md
