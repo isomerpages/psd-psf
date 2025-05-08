@@ -7,6 +7,10 @@ description: ""
 <h4><strong>Public Service Festival Marketplace</strong></h4>
 <p><strong><em>Roving exhibition across all four events</em></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/marketplaceheader.gif">
+</div>
 <p>This year’s PSF Marketplace offers an interactive experience celebrating
 our transformation journey—past, present, and future.</p>
 <p><strong>What to expect:</strong>
