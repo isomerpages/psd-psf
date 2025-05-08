@@ -11,7 +11,7 @@ sections:
   - hero:
       title: Public Service Festival
       subtitle: Celebrate Our Shared Journey, Create Our Shared Future
-      background: /images/bannersmaller.gif
+      background: /images/large_banner.gif
       button: 8 to 26 July 2025 | Register Now
       url: WWW.GO.GOV.SG/PSF2025
       key_highlights:
