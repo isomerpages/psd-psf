@@ -35,6 +35,7 @@ sections:
         Singapore better. In a changing world, we must keep transforming to
         shape a better future together.
       alt: Image alt text
+      image: /images/PSF_logo.png
   - announcements:
       title: It's Your Public Service Festival
       id: announcements
