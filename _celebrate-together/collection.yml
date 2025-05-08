@@ -2,8 +2,8 @@ collections:
   celebrate-together:
     output: true
     order:
-      - "Sports & Family Day: 26 July.md"
-      - "Learning Festival: 23 to 25 July.md"
-      - "PST Convention: 15 July.md"
-      - "Spark: 8 July.md"
       - Marketplace of Possibilities.md
+      - "Spark: 8 July.md"
+      - "PST Convention: 15 July.md"
+      - "Learning Festival: 23 to 25 July.md"
+      - "Sports & Family Day: 26 July.md"
