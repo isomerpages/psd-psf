@@ -7,6 +7,10 @@ description: ""
 <h4><strong>PST Convention</strong></h4>
 <p><strong><em>15 July, 12.30pm to 5pm @ SUTD</em></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pstcheader.gif">
+</div>
 <p>This convention is the key platform to explore what's next for Public
 Sector Transformation. Hear insights from leaders and innovators on navigating
 change in a complex world.</p>
