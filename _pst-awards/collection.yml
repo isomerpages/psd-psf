@@ -1,4 +1,5 @@
 collections:
   pst-awards:
     output: true
-    order: []
+    order:
+      - PST Awards.md
