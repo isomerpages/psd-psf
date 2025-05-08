@@ -9,8 +9,8 @@ sections:
   - hero:
       title: Public Service Festival 2025
       subtitle: 8 to 26 July 2025
-      background: /images/hero-banner.png
-      button: Reserve Your Spot
+      background: /images/bannersmaller.gif
+      button: Register Now
       url: /contact-us/
       key_highlights:
         - title: SPARK
