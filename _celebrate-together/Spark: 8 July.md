@@ -4,3 +4,37 @@ permalink: /spark-8-july/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Spark</strong></h4>
+<p><strong><em>8 July, 2.30pm to 5pm @ One Punggol</em></strong>
+</p>
+<p>Join us for an energising launch of the Public Service Festival! PSF Spark
+brings public officers together to reflect on our shared journey, celebrate
+progress, and look ahead.</p>
+<p><strong>What to expect:</strong>
+</p>
+<ul>
+<li>
+<p>Opening address by the Minister-in-charge of the Public Service</p>
+</li>
+<li>
+<p>Video featuring Head, Civil Service</p>
+</li>
+<li>
+<p>Celebrate the winners of the PST Awards for transformation excellence</p>
+</li>
+<li>
+<p>Take the "Past, Present, Future" Quiz and stand a chance to win attractive
+prizes</p>
+</li>
+<li>
+<p>Enjoy live performances and discover more about the SGSHARE movement</p>
+</li>
+<li>
+<p>Join in the WOG Moment: recite the Public Service Pledge and sing the
+National Anthem with fellow officers</p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+<p></p>
