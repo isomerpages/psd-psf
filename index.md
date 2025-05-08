@@ -80,14 +80,9 @@ sections:
   - infopic:
       title: Public Service Festival 2025
       id: infopic
-      description: is jointly organised by
-      image: /images/partners.png
-      alt: Image alt text
-  - infobar:
-      title: Public Service Festival
-      subtitle: About
-      id: infobar
       description: Previously known as Public Service Week, the Festival celebrates
-        our work and inspires officers to live out the values and ethos of the
-        Public Service.
+        our collective journey in shaping a better future for Singapore.
+      image: /images/partner2.png
+      alt: Image alt text
+      subtitle: About
 ---
