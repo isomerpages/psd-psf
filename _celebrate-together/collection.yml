@@ -2,4 +2,5 @@ collections:
   celebrate-together:
     output: true
     order:
+      - Spark.md
       - Marketplace of Possibilities.md
