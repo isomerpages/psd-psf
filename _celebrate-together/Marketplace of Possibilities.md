@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Public Service Festival Marketplace</strong></h4>
-<p><strong>Throughout the Festival period</strong>
+<p><strong><em>Roving exhibition across all four events</em></strong>
 </p>
 <p>This year’s PSF Marketplace offers an interactive experience celebrating
 our transformation journey—past, present, and future.</p>
