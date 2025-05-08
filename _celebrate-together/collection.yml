@@ -2,4 +2,5 @@ collections:
   celebrate-together:
     output: true
     order:
+      - "Spark: 8 July.md"
       - Marketplace of Possibilities.md
