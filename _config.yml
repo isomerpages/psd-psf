@@ -1,6 +1,6 @@
 title: Public Service Festival 2025
 url: https://publicservicefestival.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/pst_logo.png
 colors:
   primary-color: "#ff4000"
   secondary-color: "#4a90e2"
@@ -54,7 +54,7 @@ plugins:
 staging: https://staging-lite.d1y0p7x5e43w12.amplifyapp.com
 prod: https://master.d26ygeycqm85n2.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/pst_logo.png
 is_government: true
 google_analytics_ga4: G-X3LVMLXJW3
 linkedin-insights: ""
