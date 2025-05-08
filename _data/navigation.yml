@@ -2,9 +2,16 @@ logo: /images/PST_x_PSF_logo.png
 links:
   - title: EXPLORE EVENTS
     collection: celebrate-together
+  - title: REGISTER NOW
+    url: WWW.GO.GOV.SG/PSF2025
   - title: PST Awards
     collection: pst-awards
   - title: THINGS TO TRY
     collection: exclusively-for-you
-  - title: Public Sector Transformation
+  - title: ABOUT
     url: http://psd.gov.sg/transformation
+    sublinks:
+      - title: PUBLIC SECTOR TRANSFORMATION
+        url: http://psd.gov.sg/transformation
+      - title: CONTACT US
+        url: /permalink
