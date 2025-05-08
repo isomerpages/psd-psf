@@ -2,5 +2,6 @@ collections:
   celebrate-together:
     output: true
     order:
+      - "PST Convention: 15 July.md"
       - "Spark: 8 July.md"
       - Marketplace of Possibilities.md
