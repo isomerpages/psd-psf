@@ -7,6 +7,10 @@ description: ""
 <h4><strong>Learning Festival</strong></h4>
 <p><strong><em>23–25 July, 9.30am to 5pm @ CSC / online</em></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/learningfest.gif">
+</div>
 <p>Upskill, grow, and discover new ways to shape a more connected and caring
 society. Whether onsite or online, the Learning Festival empowers every
 officer to take charge of their development.</p>
