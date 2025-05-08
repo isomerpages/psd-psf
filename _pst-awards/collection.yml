@@ -1,0 +1,4 @@
+collections:
+  pst-awards:
+    output: true
+    order: []
