@@ -7,6 +7,10 @@ description: ""
 <h4><strong>Spark</strong></h4>
 <p><strong><em>8 July, 2.30pm to 5pm @ One Punggol</em></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sparkheader.gif">
+</div>
 <p>Join us for an energising launch of the Public Service Festival! PSF Spark
 brings public officers together to reflect on our shared journey, celebrate
 progress, and look ahead.</p>
