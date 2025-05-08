@@ -11,7 +11,7 @@ sections:
   - hero:
       title: Public Service Festival
       subtitle: Celebrate Our Shared Journey, Create Our Shared Future
-      background: /images/pswbanner4.png
+      background: /images/bannersmaller.gif
       button: 8 to 26 July 2025 | Register Now
       url: WWW.GO.GOV.SG/PSF2025
       key_highlights:
@@ -27,9 +27,9 @@ sections:
         - title: Sports & Family Day
           description: 26 July
           url: /sports-family-day-26-july/
-      variant: floating
+      variant: side
       size: md
-      alignment: right
+      alignment: left
       backgroundColor: gray
   - infopic:
       title: Celebrate Our Shared Journey, Create Our Shared Future
