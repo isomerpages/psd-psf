@@ -13,7 +13,7 @@ sections:
       subtitle: Celebrate Our Shared Journey, Create Our Shared Future
       background: /images/pswbanner4.png
       button: 8 to 26 July 2025 | Register Now
-      url: www.go.gov.sg
+      url: WWW.GO.GOV.SG/PSF2025
       key_highlights:
         - title: SPARK
           description: 8 July
@@ -40,6 +40,8 @@ sections:
         shape a better future together.
       alt: Image alt text
       image: /images/PSF_logo.png
+      url: WWW.GO.GOV.SG/PSF2025
+      button: REGISTER NOW
   - announcements:
       title: It's Your Public Service Festival!
       id: announcements
@@ -89,4 +91,6 @@ sections:
       image: /images/partner2.png
       alt: Image alt text
       subtitle: About
+      button: REGISTER NOW
+      url: WWW.GO.GOV.SG/PSF2025
 ---
