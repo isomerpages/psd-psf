@@ -4,7 +4,7 @@ title: Public Service Festival 2025
 description: Discover the 2025 Public Service Festival line-up – from inspiring
   keynotes and learning journeys to sports, family fun, and stories of
   transformation.
-image: /images/isomer-logo.svg
+image: /images/pst_logo.png
 permalink: /
 notification: ""
 sections:
