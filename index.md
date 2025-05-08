@@ -37,7 +37,7 @@ sections:
       alt: Image alt text
       image: /images/PSF_logo.png
   - announcements:
-      title: It's Your Public Service Festival
+      title: It's Your Public Service Festival!
       id: announcements
       announcement_items:
         - title: Marketplace of Possibilities (roving at all events)
@@ -77,4 +77,17 @@ sections:
           link_text: Learn more
           link_url: /sports-family-day-26-july/
       subtitle: Don't miss these activities
+  - infopic:
+      title: Public Service Festival 2025
+      id: infopic
+      description: is jointly organised by
+      image: /images/partners.png
+      alt: Image alt text
+  - infobar:
+      title: Public Service Festival
+      subtitle: About
+      id: infobar
+      description: Previously known as Public Service Week, the Festival celebrates
+        our work and inspires officers to live out the values and ethos of the
+        Public Service.
 ---
