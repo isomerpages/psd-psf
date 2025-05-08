@@ -9,10 +9,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Public Service Festival 2025
-      subtitle: 8 to 26 July 2025
+      title: Public Service Festival
+      subtitle: Celebrate Our Shared Journey, Create Our Shared Future
       background: /images/bannersmaller.gif
-      button: Register Now
+      button: 8 - 26 July 2025  |  Register Now
       url: /contact-us/
       key_highlights:
         - title: SPARK
