@@ -76,4 +76,5 @@ sections:
             Singapore Sports Hub.
           link_text: Learn more
           link_url: /sports-family-day-26-july/
+      subtitle: Don't miss these activities
 ---
