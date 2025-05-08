@@ -56,16 +56,16 @@ sections:
           link_url: /marketplace-of-possibilities/
         - title: Spark @ One Punggol
           date: 08 July 2025
-          announcement: Kick off PSF with inspiring messages, engaging quizzes, live
+          announcement: Kick off PSF with messages from our leaders, a trivia quiz, live
             performances, and the Public Service Pledge. Celebrate our
             transformation journey and PST Award winners—plus, win prizes!
           link_text: Learn more
           link_url: /spark-8-july/
         - title: PST Convention @ SUTD
           date: 15 July 2025
-          announcement: Hear from HCS and private sector leaders on the future of PST.
-            Join breakout dialogues to reimagine our work, workforce, and
-            workplace in a rapidly changing world.
+          announcement: Hear from Head, Civil Service and private sector leaders on the
+            future of PST. Join breakout dialogues to reimagine our work,
+            workforce, and workplace in a rapidly changing world.
           link_text: Learn more
           link_url: /pst-convention-15-july/
         - title: Learning Festival @ Civil Service College
