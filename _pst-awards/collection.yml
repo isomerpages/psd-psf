@@ -2,4 +2,4 @@ collections:
   pst-awards:
     output: true
     order:
-      - PST Awards.md
+      - Categories.md
