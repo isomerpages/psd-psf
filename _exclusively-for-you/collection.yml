@@ -1,0 +1,4 @@
+collections:
+  exclusively-for-you:
+    output: true
+    order: []
