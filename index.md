@@ -27,9 +27,9 @@ sections:
         - title: Sports & Family Day
           description: 26 July
           url: /sports-family-day-26-july/
-      variant: side
-      size: sm
-      alignment: left
+      variant: floating
+      size: md
+      alignment: right
       backgroundColor: gray
   - infopic:
       title: Celebrate Our Shared Journey, Create Our Shared Future
