@@ -1,4 +1,5 @@
 collections:
   celebrate-together:
     output: true
-    order: []
+    order:
+      - Marketplace of Possibilities.md
