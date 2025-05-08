@@ -7,6 +7,10 @@ description: ""
 <h4><strong>Public Service Sports &amp; Family Day</strong></h4>
 <p><strong><em>26 July, 8am to 1pm @ Singapore Sports Hub</em></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sportsheader.gif">
+</div>
 <p>Gather with fellow officers and families for a morning of energy, bonding
 and wellness at this year’s Sports &amp; Family Day.</p>
 <p><strong>What to expect:</strong>
