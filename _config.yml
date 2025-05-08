@@ -2,11 +2,11 @@ title: Public Service Festival 2025
 url: https://publicservicefestival.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#f5a623"
+  primary-color: "#fb0a67"
   secondary-color: "#4a90e2"
   media-colors:
     - title: media-color-one
-      color: "#d0021b"
+      color: "#f5a623"
     - title: media-color-two
       color: "#50e3c2"
     - title: media-color-three
