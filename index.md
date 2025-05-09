@@ -33,11 +33,11 @@ sections:
       backgroundColor: gray
   - infopic:
       title: Celebrate Our Shared Journey, Create Our Shared Future
-      subtitle: PUBLIC SECTOR TRANSFORMATION
+      subtitle: "PUBLIC SECTOR TRANSFORMATION:"
       id: infopic
-      description: For 60 years, the Public Service has kept evolving to serve
-        Singapore better. In a changing world, we must keep transforming to
-        shape a better future together.
+      description: For 60 years, the Public Service has continuously evolved to serve
+        Singapore better. Join us to celebrate the Past, Present and Future of
+        the Public Service!
       alt: Image alt text
       image: /images/PSF_logo.png
       url: https://go.gov.sg/psf2025
