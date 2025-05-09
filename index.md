@@ -46,13 +46,12 @@ sections:
       title: It's Your Public Service Festival!
       id: announcements
       announcement_items:
-        - title: Roving Marketplace Exhibition @ All Events
+        - title: Roving Marketplace Exhibition @ All PSF Events
           date: 08 July 2025
-          announcement: Step into our roving showcase of how the Public Service has
-            transformed over the years. From digital services to green
-            innovations, discover how we’ve reimagined work, workplace, and
-            workforce to serve Singapore better. Get limited edition
-            merchandise!
+          announcement: Explore how the Public Service has transformed over the years.
+            From digital services to green innovations, discover how we’ve
+            reimagined our work, workforce, and workplace to serve Singapore
+            better. Collect limited edition merchandise!
           link_text: Learn more
           link_url: /marketplace-of-possibilities/
         - title: Spark @ One Punggol
