@@ -33,7 +33,7 @@ sections:
       backgroundColor: gray
   - infopic:
       title: Celebrate Our Shared Journey, Create Our Shared Future
-      subtitle: Theme for 2025
+      subtitle: PUBLIC SECTOR TRANSFORMATION
       id: infopic
       description: For 60 years, the Public Service has kept evolving to serve
         Singapore better. In a changing world, we must keep transforming to
