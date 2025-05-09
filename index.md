@@ -46,7 +46,7 @@ sections:
       title: It's Your Public Service Festival!
       id: announcements
       announcement_items:
-        - title: Roving Marketplace Exhibition @ All PSF Events
+        - title: PSF Marketplace @ All PSF Events
           date: 08 July 2025
           announcement: Explore how the Public Service has transformed over the years.
             From digital services to green innovations, discover how we’ve
