@@ -46,7 +46,7 @@ sections:
       title: It's Your Public Service Festival!
       id: announcements
       announcement_items:
-        - title: Roving Marketplace Exhibition
+        - title: Roving Marketplace Exhibition @ All Events
           date: 08 July 2025
           announcement: Step into our roving showcase of how the Public Service has
             transformed over the years. From digital services to green
