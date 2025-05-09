@@ -2,7 +2,7 @@ collections:
   explore-events:
     output: true
     order:
-      - Roving Marketplace Exhibition.md
+      - Festival Marketplace.md
       - "Spark: 8 July.md"
       - "PST Convention: 15 July.md"
       - "Learning Festival: 23 to 25 July.md"
