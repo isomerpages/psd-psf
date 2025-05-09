@@ -1,5 +1,5 @@
 collections:
-  exclusively-for-you:
+  things-to-try:
     output: true
     order:
       - Wellness Activities.md
