@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Public Service Festival Marketplace</strong></h4>
-<p><strong><em>Roving exhibition across all four events</em></strong>
+<p><strong><em>Roving exhibition across all four PSF events</em></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
