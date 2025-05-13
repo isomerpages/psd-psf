@@ -35,5 +35,9 @@ prizes</p>
 <p>Enjoy a lively performance by ASPN Chaoyang School Ensemble and discover
 more about the SGSHARE movement</p>
 </li>
+<li>
+<p>Come together as One Public Service to take the Public Service Pledge
+and sing the national anthem.</p>
+</li>
 </ul>
 <p></p>
