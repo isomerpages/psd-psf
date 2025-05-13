@@ -57,8 +57,10 @@ sections:
         - title: Spark @ One Punggol
           date: 08 July 2025
           announcement: Kick off PSF with messages from our leaders, a trivia quiz, live
-            performances, and the Public Service Pledge. Celebrate our
-            transformation journey and PST Award winners—plus, win prizes!
+            performance, and the Public Service Pledge. Most importantly,
+            celebrate the outstanding PST Award winners and our transformation
+            journey as One Public Service - plus, enjoy great refreshments and
+            win prizes!
           link_text: Learn more
           link_url: /spark-8-july/
         - title: PST Convention @ SUTD
