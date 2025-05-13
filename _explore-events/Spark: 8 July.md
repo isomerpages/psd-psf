@@ -18,10 +18,11 @@ progress, and look ahead.</p>
 </p>
 <ul>
 <li>
-<p>Opening address by the Minister-in-charge of the Public Service</p>
+<p>Opening address by the Minister-in-charge of the Public Service, Mr Chan
+Chun Sing</p>
 </li>
 <li>
-<p>Video featuring Head, Civil Service</p>
+<p>Hear a video message from Head of Civil Service, Mr Leo Yip</p>
 </li>
 <li>
 <p>Celebrate the winners of the PST Awards for transformation excellence</p>
@@ -31,14 +32,8 @@ progress, and look ahead.</p>
 prizes</p>
 </li>
 <li>
-<p>Enjoy live performances and discover more about the SGSHARE movement</p>
-</li>
-<li>
-<p>Join in the WOG Moment: recite the Public Service Pledge and sing the
-National Anthem with fellow officers</p>
-</li>
-<li>
-<p></p>
+<p>Enjoy a lively performance by ASPN Chaoyang School Ensemble and discover
+more about the SGSHARE movement</p>
 </li>
 </ul>
 <p></p>
