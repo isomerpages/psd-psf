@@ -22,7 +22,7 @@ progress, and look ahead.</p>
 Chun Sing</p>
 </li>
 <li>
-<p>Hear a video message from Head of Civil Service, Mr Leo Yip</p>
+<p>Hear a video message from Head, Civil Service, Mr Leo Yip</p>
 </li>
 <li>
 <p>Celebrate the winners of the PST Awards for transformation excellence</p>
