@@ -66,4 +66,87 @@ sector leaders</p>
 </div>
 </div>
 </div>
+<h3>Breakout Sessions <br></h3>
+<p>[Session 1] Work: Transforming the public sector to serve the reinvention
+of businesses</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Musa Fazal" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Musa Fazal</div>
+<div class="isomer-card-description">Chief Policy Officer, Singapore Business Federation</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Kenny Tan</div>
+<div class="isomer-card-description">Deputy Secretary, Ministry of Manpower (MOM)</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jane Lim" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jane Lim </div><div class="isomer-card-description">Deputy Secretary, Ministry of Trade &amp; Industry (MTI)</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
+<p>[Session 2] Workforce: Leading Workforce Development&nbsp; &amp; Seizing
+Longevity Opportunity</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kevin Lai" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Kevin Lai</div>
+<div class="isomer-card-description">Global Healthcare Practice Co-Leader / Egon Zehnder</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ong Ai Hua</div>
+<div class="isomer-card-description">Deputy Secretary, Ministry of Social and Family Development (MSF)</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Wong Kang Jet</div><div class="isomer-card-description">Deputy Secretary, National Environment Agency (NEA)</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
+<p>[Session 3] Workplace: Building an innovative culture &amp; digital capabilities
+to deal with a future of discontinuities and disruptions
+<br>
+</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Foo Siang-tse" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Foo Siang-tse</div>
+<div class="isomer-card-description">Senior Partner of Cyber, NCS Group</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sim Feng-Ji</div>
+<div class="isomer-card-description">Deputy Secretary, Ministry of Digital Development and Information</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ng Chad-Son</div><div class="isomer-card-description">Chief Executive, Defence Science and Technology Agency</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <p></p>
