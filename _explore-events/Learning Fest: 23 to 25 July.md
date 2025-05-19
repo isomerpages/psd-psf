@@ -29,8 +29,7 @@ future, whilst developing our own competencies to effectively translate
 policy into action.</p>
 </li>
 </ul>
-<p><strong>What to expect:</strong>
-</p>
+<h3>What to expect:</h3>
 <ul>
 <li>
 <p>Opening by PS(PSD) on creating connections for greater impact followed
