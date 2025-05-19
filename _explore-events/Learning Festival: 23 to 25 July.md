@@ -11,24 +11,41 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/learningfest.gif">
 </div>
-<p>Upskill, grow, and discover new ways to shape a more connected and caring
-society. Whether onsite or online, the Learning Festival empowers every
-officer to take charge of their development.</p>
+<p>In conjunction with SG60, the Public Service Learning Fest will focus
+on the theme of “Connect, Care, Contribute”. Through a variety of in-person
+and virtual panel discussions, webinars and learning journeys, we can learn
+from fellow public officers and key stakeholders from the private and people
+sectors, so that we become better at:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Engaging with citizens from diverse backgrounds to foster meaningful connections
+and partnerships</p>
+</li>
+<li>
+<p>Demonstrating care for our fellow citizens, and championing inclusivity</p>
+</li>
+<li>
+<p>Collaborating with citizens to co-create and contribute to Singapore's
+future, whilst developing our own competencies to effectively translate
+policy into action.</p>
+</li>
+</ul>
 <p><strong>What to expect:</strong>
 </p>
 <ul>
 <li>
-<p>Opening session with a message from Permanent Secretary on partnering
-citizens for Singapore's future</p>
+<p>Opening by PS(PSD) on creating connections for greater impact followed
+by a panel dialogue</p>
 </li>
 <li>
-<p>Career growth and planning resources</p>
+<p>Career fitness and development resources</p>
 </li>
 <li>
-<p>Hands-on programmes and skill-building workshops</p>
+<p>Webinars by Functional Leaders and skill-building workshops</p>
 </li>
 <li>
-<p>Curated learning journeys to deepen insight and exposure</p>
+<p>Curated learning journeys to connect with citizens, deepen insight and
+broaden mindset</p>
 </li>
 </ul>
 <h3>Keynote Speakers</h3>
