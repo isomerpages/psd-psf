@@ -4,7 +4,7 @@ permalink: /learning-fest-23-to-25-july/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Learning Fest</strong></h2>
+<h2><strong>Public Service Learning Fest</strong></h2>
 <h4><strong>23–25 July, 9.30am to 5pm @ Civil Service College / online</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
