@@ -73,7 +73,7 @@ of businesses</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Musa Fazal</strong> - Chief Policy Officer, Singapore business
+<p><strong>Musa Fazal</strong> - Chief Policy Officer, Singapore Business
 Federation (SBF)</p>
 </li>
 <li>
@@ -85,7 +85,7 @@ Federation (SBF)</p>
 <p></p>
 </li>
 </ul>
-<p>[Session 2] Workforce: Leading Workforce Development&nbsp; &amp; Seizing
+<p>[Session 2] Workforce: Leading Workforce Development&nbsp;&amp; Seizing
 Longevity Opportunity</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
