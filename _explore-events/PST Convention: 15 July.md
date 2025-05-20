@@ -48,7 +48,7 @@ sector leaders</p>
 <p><strong>Yuen Kuan Moon</strong>
 <br>Group CEO, Singtel</p>
 <h3>Breakout Sessions Speakers</h3>
-<p>[Session 1] <strong>Work: Transforming the public sector to serve the reinvention of businesses</strong>
+<p><strong>[Session 1] Work: Transforming the public sector to serve the reinvention of businesses</strong>
 </p>
 <p><strong>Musa Fazal</strong> 
 <br>Chief Policy Officer, Singapore Business Federation (SBF)</p>
@@ -57,7 +57,8 @@ sector leaders</p>
 <p><strong>Jane Lim</strong>
 <br>Deputy Secretary, Ministry of Trade &amp; Industry (MTI)</p>
 <p></p>
-<p>[Session 2]<strong> Workforce: Leading Workforce Development&nbsp;&amp; Seizing Longevity Opportunity</strong>
+<p></p>
+<p><strong>[Session 2] Workforce: Leading Workforce Development&nbsp;&amp; Seizing Longevity Opportunity</strong>
 </p>
 <p><strong>Kevin Lai</strong>
 <br>Global Healthcare Practice Co-Leader / Egon Zehnder</p>
@@ -66,7 +67,8 @@ sector leaders</p>
 <p><strong>Wong Kang Jet </strong>
 <br>Deputy Secretary, National Environment Agency (NEA)</p>
 <p></p>
-<p>[Session 3]<strong> Workplace: Building an innovative culture &amp; digital capabilities to deal with a future of discontinuities and disruptions</strong>
+<p></p>
+<p><strong>[Session 3] Workplace: Building an innovative culture &amp; digital capabilities to deal with a future of discontinuities and disruptions</strong>
 </p>
 <p><strong>Foo Siang-tse</strong>
 <br>Senior Partner of Cyber, NCS Group</p>
