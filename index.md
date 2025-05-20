@@ -65,10 +65,10 @@ sections:
           link_url: /spark-8-july/
         - title: PST Convention @ SUTD
           date: 15 July 2025
-          announcement: Hear from Head, Civil Service and private sector leaders on the
-            future of Public Sector Transformation (PST). Join breakout
-            dialogues to reimagine our work, workforce, and workplace in a
-            rapidly changing world.
+          announcement: Hear from Head, Civil Service and leaders from both public and
+            private sectors on the future of Public Sector Transformation (PST).
+            Join breakout dialogues to reimagine our work, workforce, and
+            workplace in a rapidly changing world.
           link_text: Learn more
           link_url: /pst-convention-15-july/
         - title: Learning Festival @ Civil Service College
