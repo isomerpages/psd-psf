@@ -40,37 +40,20 @@ on the 3Ws: Work, Workforce, Workplace</p>
 sector leaders</p>
 </li>
 </ul>
-<h3>Keynote Speakers</h3>
+<h3>TED Talk Speakers</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Arundhati Bhattacharya - </strong>Chairperson &amp; CEO, Salesforce
+India and South Asia</p>
+</li>
+<li>
+<p><strong>Yuen Kuan Moon - </strong>Group CEO, Singtel</p>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Arundhati Bhattacharya" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Arundhati Bhattacharya</div>
-<div class="isomer-card-description">Chairperson &amp; CEO, Salesforce India and South Asia)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Yuen Kuan Moon</div>
-<div class="isomer-card-description">Group CEO, Salesforce</div>
-</div>
-</div>
-</div>
-<h3>Breakout Sessions <br></h3>
+</li>
+</ul>
+<h3>Breakout Sessions Speakers</h3>
 <p>[Session 1] Work: Transforming the public sector to serve the reinvention
 of businesses</p>
-<p><em>Speakers:</em>
-</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Musa Fazal</strong> - Chief Policy Officer, Singapore Business
