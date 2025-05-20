@@ -22,7 +22,7 @@ change in a complex world.</p>
 on the 3Ws: Work, Workforce, Workplace</p>
 </li>
 <li>
-<p>Talks by private sector leaders on:</p>
+<p>TED Talks by private sector leaders on:</p>
 <ul>
 <li>
 <p>Reinventing business models in the digital age</p>
