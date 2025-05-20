@@ -69,31 +69,22 @@ sector leaders</p>
 <h3>Breakout Sessions <br></h3>
 <p>[Session 1] Work: Transforming the public sector to serve the reinvention
 of businesses</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Musa Fazal" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Musa Fazal</div>
-<div class="isomer-card-description">Chief Policy Officer, Singapore Business Federation</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Kenny Tan</div>
-<div class="isomer-card-description">Deputy Secretary, Ministry of Manpower (MOM)</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jane Lim" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jane Lim </div><div class="isomer-card-description">Deputy Secretary, Ministry of Trade &amp; Industry (MTI)</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
+<p><em>Speakers:</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Musa Fazal</strong> - Chief Policy Officer, Singapore business
+Federation (SBF)</p>
+</li>
+<li>
+<p><strong>Kenny Tan</strong> - Deputy Secretary, Ministry of Manpower (MOM)</p>
+</li>
+<li>
+<p><strong>Jane Lim</strong> - Deputy Secretary, Ministry of Trade &amp; Industry
+(MTI)</p>
 <p></p>
+</li>
+</ul>
 <p>[Session 2] Workforce: Leading Workforce Development&nbsp; &amp; Seizing
 Longevity Opportunity</p>
 <div class="isomer-card-grid">
