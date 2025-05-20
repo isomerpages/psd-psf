@@ -70,57 +70,34 @@ Federation (SBF)</p>
 </ul>
 <p>[Session 2] Workforce: Leading Workforce Development&nbsp;&amp; Seizing
 Longevity Opportunity</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kevin Lai" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Kevin Lai</div>
-<div class="isomer-card-description">Global Healthcare Practice Co-Leader / Egon Zehnder</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ong Ai Hua</div>
-<div class="isomer-card-description">Deputy Secretary, Ministry of Social and Family Development (MSF)</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Wong Kang Jet</div><div class="isomer-card-description">Deputy Secretary, National Environment Agency (NEA)</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Kevin Lai - </strong>Global Healthcare Practice Co-Leader / Egon
+Zehnder</p>
+</li>
+<li>
+<p><strong>Ong Ai Hua - </strong>Deputy Secretary, Ministry of Social and
+Family Development (MSF)</p>
+</li>
+<li>
+<p><strong>Wong Kang Jet - </strong>Deputy Secretary, National Environment
+Agency (NEA)</p>
 <p></p>
+</li>
+</ul>
 <p>[Session 3] Workplace: Building an innovative culture &amp; digital capabilities
-to deal with a future of discontinuities and disruptions
-<br>
-</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Foo Siang-tse" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Foo Siang-tse</div>
-<div class="isomer-card-description">Senior Partner of Cyber, NCS Group</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/360_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Sim Feng-Ji</div>
-<div class="isomer-card-description">Deputy Secretary, Ministry of Digital Development and Information</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ng Chad-Son</div><div class="isomer-card-description">Chief Executive, Defence Science and Technology Agency</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
+to deal with a future of discontinuities and disruptions</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Foo Siang-tse - </strong>Senior Partner of Cyber, NCS Group</p>
+</li>
+<li>
+<p><strong>Sim Feng-Ji - </strong>Deputy Secretary, Ministry of Digital Development
+and Information</p>
+</li>
+<li>
+<p><strong>Ng Chad-Son - </strong>Chief Executive, Defence Science and Technology
+Agency</p>
+</li>
+</ul>
 <p></p>
