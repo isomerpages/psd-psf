@@ -43,11 +43,16 @@ sector leaders</p>
 <h3>TED Talk Speakers</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Arundhati Bhattacharya - </strong>Chairperson &amp; CEO, Salesforce
-India and South Asia</p>
+<p><strong>Arundhati Bhattacharya </strong>
+</p>
+<p>Chairperson &amp; CEO, Salesforce India and South Asia
+<br>
+</p>
 </li>
 <li>
-<p><strong>Yuen Kuan Moon - </strong>Group CEO, Singtel</p>
+<p><strong>Yuen Kuan Moon </strong>
+</p>
+<p>Group CEO, Singtel</p>
 <p></p>
 </li>
 </ul>
