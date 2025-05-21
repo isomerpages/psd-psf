@@ -23,7 +23,7 @@ sections:
           url: /pst-convention-15-july/
         - title: Learning Festival
           description: 23, 24 & 25 July
-          url: /learning-festival-23-to-25-july/
+          url: /learning-fest-23-to-25-july/
         - title: Sports & Family Day
           description: 26 July
           url: /sports-family-day-26-july/
