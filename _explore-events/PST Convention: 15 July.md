@@ -52,12 +52,13 @@ sector leaders</p>
 </p>
 <p><strong>Musa Fazal</strong> 
 <br>Chief Policy Officer, Singapore Business Federation (SBF)</p>
-<p><strong>Kenny Tan</strong>
-<br>Deputy Secretary, Ministry of Manpower (MOM)</p>
 <p><strong>Jane Lim</strong>
-<br>Deputy Secretary, Ministry of Trade &amp; Industry (MTI)
+<br>Deputy Secretary, Ministry of Trade &amp; Industry (MTI)</p>
+<p><strong>Kenny Tan</strong>
+<br>Deputy Secretary, Ministry of Manpower (MOM
 <br>
-<br>
+</p>
+<p>
 <br><strong>[Session 2] Workforce: Leading Workforce Development&nbsp;&amp; Seizing Longevity Opportunity</strong>
 </p>
 <p><strong>Kevin Lai</strong>
@@ -72,8 +73,8 @@ sector leaders</p>
 </p>
 <p><strong>Foo Siang-tse</strong>
 <br>Senior Partner of Cyber, NCS Group</p>
-<p><strong>Sim Feng-Ji</strong>
-<br>Deputy Secretary, Ministry of Digital Development and Information (MDDI)</p>
 <p><strong>Ng Chad-Son</strong>
 <br>Chief Executive, Defence Science and Technology Agency (DSTA)</p>
+<p><strong>Sim Feng-Ji</strong>
+<br>Deputy Secretary, Ministry of Digital Development and Information (MDDI)</p>
 <p></p>
