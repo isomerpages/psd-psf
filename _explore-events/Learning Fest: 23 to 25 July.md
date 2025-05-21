@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h2><strong>Public Service Learning Fest</strong></h2>
-<h4><strong>23–25 July, 9.30am to 5pm @ Civil Service College / Online</strong></h4>
+<p><strong><em>23–25 July, 9.30am to 5pm @ Civil Service College / Online</em></strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/learningfest.gif">
