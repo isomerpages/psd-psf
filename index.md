@@ -71,13 +71,13 @@ sections:
             workplace in a rapidly changing world.
           link_text: Learn more
           link_url: /pst-convention-15-july/
-        - title: Learning Festival @ Civil Service College
+        - title: Learning Festival @ Civil Service College and on Zoom
           date: 23 July 2025
           announcement: Explore how we can co-create Singapore’s future with citizens.
             Gain skills, discover career resources, and grow through workshops,
             talks, and learning journeys.
           link_text: Learn more
-          link_url: /learning-festival-23-to-25-july/
+          link_url: /learning-fest-23-to-25-july/
         - title: Sports & Family Day @ Sports Hub
           date: 26 July 2025
           announcement: Get active with games, sports tryouts, and family fun! Enjoy a
