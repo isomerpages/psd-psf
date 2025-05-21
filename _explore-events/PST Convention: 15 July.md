@@ -73,7 +73,7 @@ sector leaders</p>
 <p><strong>Foo Siang-tse</strong>
 <br>Senior Partner of Cyber, NCS Group</p>
 <p><strong>Sim Feng-Ji</strong>
-<br>Deputy Secretary, Ministry of Digital Development and Information</p>
+<br>Deputy Secretary, Ministry of Digital Development and Information (MDDI)</p>
 <p><strong>Ng Chad-Son</strong>
-<br>Chief Executive, Defence Science and Technology Agency</p>
+<br>Chief Executive, Defence Science and Technology Agency (DSTA)</p>
 <p></p>
