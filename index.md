@@ -71,7 +71,7 @@ sections:
             workplace in a rapidly changing world.
           link_text: Learn more
           link_url: /pst-convention-15-july/
-        - title: Learning Festival @ Civil Service College and Online
+        - title: Learning Fest @ Civil Service College and Online
           date: 23 July 2025
           announcement: Explore how we can co-create Singapore’s future with citizens.
             Gain skills, discover career resources, and grow through workshops,
