@@ -32,4 +32,5 @@ and wellness at this year’s Sports &amp; Family Day.</p>
 <p>Celebrate the joy of play and togetherness across the Public Service</p>
 </li>
 </ul>
+<p>Sign up here!</p>
 <p></p>
