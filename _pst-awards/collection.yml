@@ -1,0 +1,5 @@
+collections:
+  pst-awards:
+    output: true
+    order:
+      - Categories.md

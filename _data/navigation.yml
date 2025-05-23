@@ -1,15 +1,17 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/PST_x_PSF_logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Explore Events
+    collection: explore-events
+  - title: REGISTER NOW
+    url: https://go.gov.sg/psf2025
+  - title: PST Awards
+    collection: pst-awards
+  - title: Things To Try
+    collection: things-to-try
+  - title: ABOUT
+    url: http://psd.gov.sg/transformation
+    sublinks:
+      - title: Public Sector Transformation
+        url: http://psd.gov.sg/transformation
+      - title: Contact Us
+        url: /permalink

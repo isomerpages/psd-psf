@@ -1,0 +1,7 @@
+collections:
+  things-to-try:
+    output: true
+    order:
+      - Wellness Activities.md
+      - Deals & Promo.md
+      - Learning Journeys.md
