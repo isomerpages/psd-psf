@@ -15,8 +15,6 @@ These Terms of Use may be changed from time to time. Changes will be posted on t
 ##### **Proprietary Rights**
 This Web Site is maintained by PSD, PMO - the Public Service Division, Prime Minister’s Office. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by PSD, PMO.
 
-##### **Privacy Policy**
-[Click here to review this Web Site Privacy Statement.](https://www.careers.gov.sg/privacy-statement)
 
 ##### **Restrictions on use of Materials**
 Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of PSD, PMO. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of PSD, PMO’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of PSD, PMO.
