@@ -66,7 +66,7 @@ sector leaders</p>
 <p><strong>Ong Ai Hua</strong>
 <br>Deputy Secretary, Ministry of Social and Family Development (MSF)</p>
 <p><strong>Wong Kang Jet </strong>
-<br>Deputy Secretary, National Environment Agency (NEA)
+<br>Chief Executive Officer, National Environment Agency (NEA)
 <br>
 <br>
 <br><strong>[Session 3] Workplace: Building an innovative culture &amp; digital capabilities to deal with a future of discontinuities and disruptions</strong>
