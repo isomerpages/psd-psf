@@ -55,7 +55,7 @@ sector leaders</p>
 <p><strong>Jane Lim</strong>
 <br>Deputy Secretary, Ministry of Trade &amp; Industry (MTI)</p>
 <p><strong>Kenny Tan</strong>
-<br>Deputy Secretary, Ministry of Manpower (MOM
+<br>Deputy Secretary, Ministry of Manpower (MOM)
 <br>
 </p>
 <p>
