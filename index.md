@@ -97,6 +97,6 @@ sections:
       button: REGISTER NOW
       url: https://go.gov.sg/psf2025
   - infobar:
-      title: The Public Service Festival is open to public officers only
+      title: The Public Service Festival is open to public officers only.
       id: infobar
 ---
