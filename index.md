@@ -40,7 +40,7 @@ sections:
         the Public Service!
       alt: Image alt text
       image: /images/PSF_logo.png
-      url: https://go.gov.sg/psf2025
+      url: https://go.gov.sg/psf2025-signup
       button: REGISTER NOW
   - announcements:
       title: It's Your Public Service Festival!
