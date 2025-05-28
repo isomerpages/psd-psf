@@ -6,9 +6,7 @@ description: ""
 ---
 <h3>Try out these learning journeys specially curated for you. Limited vacancies!</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/202212032494.jpg">
-</div>
+
 <p><strong>Connecting with Our Youths with Disabilities</strong>
 <br>Hosted by: AWWA
 <br>Date: 24 June 2025
@@ -28,9 +26,7 @@ society.</p>
 </p>
 <p></p>
 <hr>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pdt_suites_6.jpg">
-</div>
+
 <p><strong>Connecting with Our Social Enterprises</strong>
 <br>Hosted by: The Foundry
 <br>Date: 26 June 2025
@@ -49,9 +45,8 @@ community by engaging the ground and understanding their needs.</p>
 <p><em>Registration opens on 4 June!</em>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pdt_suites_6.jpg">
-</div>
+
+
 <p><strong>Connecting with Healthcare and the Community</strong>
 <br>Hosted by: Woodlands Health Campus
 <br>Date: 4 July 2025
