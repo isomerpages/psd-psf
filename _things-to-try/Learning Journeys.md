@@ -22,9 +22,8 @@ promote a more inclusive mindset among public officers. It will help public
 officers to care more deeply about accessibility needs, while enabling
 and how to enable them to contribute actively to building a more inclusive
 society.</p>
-<p><em>Registration opens on 4 June!</em>
-</p>
-<p></p>
+<p><em>Registration opens on 4 June!</em></p>
+<br>
 <hr>
 
 <p><strong>Connecting with Our Social Enterprises</strong>
@@ -42,10 +41,9 @@ can also find out more about the support structures required by non-profits
 and understand how the people, private, and public sectors can contribute
 their time and skills through volunteering opportunities and care for the
 community by engaging the ground and understanding their needs.</p>
-<p><em>Registration opens on 4 June!</em>
-</p>
-<p></p>
-
+<p><em>Registration opens on 4 June!</em></p>
+<br>
+<hr>
 
 <p><strong>Connecting with Healthcare and the Community</strong>
 <br>Hosted by: Woodlands Health Campus
@@ -63,8 +61,3 @@ connections among them and with the community they serve to enhance their
 ability to contribute to residents’ health and well-being.</p>
 <p><em>Registration opens on 4 June!</em>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
