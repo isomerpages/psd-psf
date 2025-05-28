@@ -32,5 +32,6 @@ and wellness at this year’s Sports &amp; Family Day.</p>
 <p>Celebrate the joy of play and togetherness across the Public Service</p>
 </li>
 </ul>
-<p>Sign up here now!</p>
+<p><a href="https://go.gov.sg/psf2025-sfday-signups" rel="noopener nofollow" target="_blank">Sign up here now!</a>
+</p>
 <p></p>
