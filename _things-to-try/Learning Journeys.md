@@ -9,15 +9,22 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/202212032494.jpg">
 </div>
-<p><strong>Silver Generation Ambassador (SGA) Buddy Programme</strong>
-<br>Hosted by: Agency for Integrated Care
-<br>Date: 27 June 2024
-<br>Time: 1-6pm
-<br><strong>Vacancies available: 50 pax<br></strong>
-<br>Buddy up with a Silver Generation Ambassador to conduct preventive health
-visits to seniors' homes! Boost your citizen engagement skills while learning
-valuable tips on senior health support.</p>
-<p><em>Registration closed due to overwhelming response!</em>
+<p><strong>Connecting with Our Youths with Disabilities</strong>
+<br>Hosted by: AWWA
+<br>Date: 24 June 2025
+<br>Session 1: Special Student Care Centre, 9.30am – 11.30am @ Lorong Napiri</p>
+<p>Session 2: Day Activity Centre, 10am – 12pm @ Pasir Ris
+<br>
+</p>
+<p><strong>Vacancies available: 15 pax each session<br></strong>
+<br>What are the challenges and capabilities of our youths with disabilities?
+Public officers would have the opportunity to engage with individuals with
+disabilities. This interaction fosters empathy, breaks down barriers and
+promote a more inclusive mindset among public officers. It will help public
+officers to care more deeply about accessibility needs, while enabling
+and how to enable them to contribute actively to building a more inclusive
+society.</p>
+<p><em>Registration opens on 4 June!</em>
 </p>
 <p></p>
 <hr>
