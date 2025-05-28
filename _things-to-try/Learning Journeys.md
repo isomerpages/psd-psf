@@ -36,7 +36,9 @@ society.</p>
 <br>Date: 26 June 2025
 <br>Session 1: 10am - 12pm
 <br>Session 2: 2pm - 4pm
-<br><strong>Vacancies available: 40 pax per session <br></strong>
+<br>
+</p>
+<p><strong>Vacancies available: 40 pax per session <br></strong>
 <br>The Foundry is a new social impact hub that houses up to 24 non-profit
 organisations. Public officers can learn about the rich history of the
 building and the different purposes it has served over the years. They
@@ -46,6 +48,27 @@ their time and skills through volunteering opportunities and care for the
 community by engaging the ground and understanding their needs.</p>
 <p><em>Registration opens on 4 June!</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pdt_suites_6.jpg">
+</div>
+<p><strong>Connecting with Healthcare and the Community</strong>
+<br>Hosted by: Woodlands Health Campus
+<br>Date: 4 July 2025
+<br>Time: 2pm – 5pm&nbsp;
+<br>
+<br><strong>Vacancies available: 90 pax<br></strong>
+<br>WHC is Singapore’s newest integrated healthcare campus comprising acute,
+community, and long-term care services. Public officers can learn about
+how policymakers leverage demographic data to design healthcare services
+and how WHC’s Vibrant Campus Initiative helps to infuse arts and culture
+into the healthcare setting and integrate the Campus with the community.
+This campus brings together healthcare providers and partners, fostering
+connections among them and with the community they serve to enhance their
+ability to contribute to residents’ health and well-being.</p>
+<p><em>Registration opens on 4 June!</em>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
