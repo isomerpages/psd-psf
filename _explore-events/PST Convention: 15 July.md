@@ -22,7 +22,7 @@ change in a complex world.</p>
 on the 3Ws: Work, Workforce, Workplace</p>
 </li>
 <li>
-<p>Talks by private sector leaders on:</p>
+<p>TED-style talks by private sector leaders on:</p>
 <ul>
 <li>
 <p>Reinventing business models in the digital age</p>
@@ -40,7 +40,7 @@ on the 3Ws: Work, Workforce, Workplace</p>
 sector leaders</p>
 </li>
 </ul>
-<h3>Speakers</h3>
+<h3>TED-style talks Speakers</h3>
 <p><strong>Arundhati Bhattacharya</strong>
 <br>Chairperson &amp; CEO, Salesforce India and South Asia
 <br>
