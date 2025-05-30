@@ -235,7 +235,7 @@ high standards of service excellence.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Partnerships Enabler Award</strong>
+<p><strong>Partnership Enabler Award</strong>
 </p>
 <p></p>
 <p>This award celebrates officers who have fostered strong partnerships with
