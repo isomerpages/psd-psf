@@ -6,7 +6,7 @@ description: ""
 ---
 <h3>Public Sector Transformation Awards Ceremony</h3>
 <h4>Award Categories</h4>
-<p>The Public Sector Transformation (PST) Awards 2024 recognise efforts at
+<p>The Public Sector Transformation (PST) Awards 2025 recognise efforts at
 three levels - Whole of Government (WOG), agency, and individual. The Awards
 recognise exemplary efforts to work as One Public Service, engage citizens,
 innovate and digitalise services and functions, improve our regulatory

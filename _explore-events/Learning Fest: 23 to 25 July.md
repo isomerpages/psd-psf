@@ -33,7 +33,8 @@ policy into action.</p>
 <h3>What to expect:</h3>
 <ul>
 <li>
-<p>Opening by PS(PSD) on creating connections for greater impact followed
+<p>Opening remarks by Ms Tan Gee Keow, Permanent Secretary of the Public
+Service Division, on creating connections for greater impact, followed
 by a panel dialogue</p>
 </li>
 <li>
@@ -44,7 +45,7 @@ by a panel dialogue</p>
 </li>
 <li>
 <p>Curated learning journeys to connect with citizens, deepen insight and
-broaden mindset</p>
+broaden mindset.</p>
 </li>
 </ul>
 <h3>For more details, please visit <strong><a href="https://go.gov.sg/pslf2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pslf2025</a></strong></h3>

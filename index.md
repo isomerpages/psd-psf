@@ -13,7 +13,7 @@ sections:
       subtitle: Celebrate Our Shared Journey, Create Our Shared Future
       background: /images/large_banner.gif
       button: 8 to 26 July 2025 | Register Now
-      url: https://go.gov.sg/psf2025
+      url: https://go.gov.sg/psf2025-signup
       key_highlights:
         - title: SPARK
           description: 8 July
