@@ -103,6 +103,21 @@ and underpin the transformation of their operating models.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Workplace Transformation Award</strong>
+</p>
+<p></p>
+<p>This award recognises agencies that have demonstrated a strong commitment
+and excellent</p>
+<p>results in strengthening employee experience at the workplace, apart from
+centrally organised</p>
+<p>initiatives such as Well-being@Gov.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Service Delivery Excellence Award</strong>
 </p>
 <p></p>
@@ -182,7 +197,7 @@ of continuous learning and skills upgrading of self and others.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Exemplary Innovator Award</strong>
+<p><strong>Exemplary Innovation  Award</strong>
 </p>
 <p></p>
 <p>This award recognises exemplary officers or teams who have injected innovation
@@ -215,6 +230,23 @@ they faced with difficulties.</p>
 <p></p>
 <p>This award recognises exemplary officers who have consistently demonstrated
 high standards of service excellence.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Partnerships Enabler Award </strong>
+</p>
+<p></p>
+<p>This award celebrates officers who have fostered strong partnerships with
+citizens and external stakeholders to address community and societal needs.
+It recognises officers who are willing to journey alongside citizens and
+external stakeholders, through taking on a</p>
+<p>collaborative, stakeholder-centric, innovative attitude towards cultivating
+long-term stakeholder</p>
+<p>relationships for the collective good.</p>
 </td>
 </tr>
 </tbody>
