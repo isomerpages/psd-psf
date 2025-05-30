@@ -107,10 +107,8 @@ and underpin the transformation of their operating models.</p>
 </p>
 <p></p>
 <p>This award recognises agencies that have demonstrated a strong commitment
-and excellent</p>
-<p>results in strengthening employee experience at the workplace, apart from
-centrally organised</p>
-<p>initiatives such as Well-being@Gov.</p>
+and excellent results in strengthening employee experience at the workplace,
+apart from centrally organised initiatives such as Well-being@Gov.</p>
 </td>
 </tr>
 <tr>
