@@ -197,7 +197,7 @@ of continuous learning and skills upgrading of self and others.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Exemplary Innovation  Award</strong>
+<p><strong>Exemplary Innovation Award</strong>
 </p>
 <p></p>
 <p>This award recognises exemplary officers or teams who have injected innovation
@@ -237,7 +237,7 @@ high standards of service excellence.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Partnerships Enabler Award </strong>
+<p><strong>Partnerships Enabler Award</strong>
 </p>
 <p></p>
 <p>This award celebrates officers who have fostered strong partnerships with
