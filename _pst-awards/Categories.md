@@ -243,10 +243,9 @@ high standards of service excellence.</p>
 <p>This award celebrates officers who have fostered strong partnerships with
 citizens and external stakeholders to address community and societal needs.
 It recognises officers who are willing to journey alongside citizens and
-external stakeholders, through taking on a</p>
-<p>collaborative, stakeholder-centric, innovative attitude towards cultivating
-long-term stakeholder</p>
-<p>relationships for the collective good.</p>
+external stakeholders, through taking on a collaborative, stakeholder-centric,
+innovative attitude towards cultivating long-term stakeholder relationships
+for the collective good.</p>
 </td>
 </tr>
 </tbody>
