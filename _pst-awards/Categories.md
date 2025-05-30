@@ -107,10 +107,8 @@ and underpin the transformation of their operating models.</p>
 </p>
 <p></p>
 <p>This award recognises agencies that have demonstrated a strong commitment
-and excellent</p>
-<p>results in strengthening employee experience at the workplace, apart from
-centrally organised</p>
-<p>initiatives such as Well-being@Gov.</p>
+and excellent results in strengthening employee experience at the workplace,
+apart from centrally organised initiatives such as Well-being@Gov.</p>
 </td>
 </tr>
 <tr>
@@ -237,16 +235,15 @@ high standards of service excellence.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Partnerships Enabler Award</strong>
+<p><strong>Partnership Enabler Award</strong>
 </p>
 <p></p>
 <p>This award celebrates officers who have fostered strong partnerships with
 citizens and external stakeholders to address community and societal needs.
 It recognises officers who are willing to journey alongside citizens and
-external stakeholders, through taking on a</p>
-<p>collaborative, stakeholder-centric, innovative attitude towards cultivating
-long-term stakeholder</p>
-<p>relationships for the collective good.</p>
+external stakeholders, through taking on a collaborative, stakeholder-centric,
+innovative attitude towards cultivating long-term stakeholder relationships
+for the collective good.</p>
 </td>
 </tr>
 </tbody>
