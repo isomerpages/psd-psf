@@ -117,7 +117,7 @@ levels and a great way to relax outdoors.</p>
 <blockquote>
 <p>Pilates is an excellent full-body, low-impact method known to realign
 and strengthen the structure of the body. Regardless of your age, conditioning
-or ability, it is never too late to get started on pilates.</p>
+or ability, it is never too late to get started on Pilates.</p>
 <p></p>
 <p></p>
 </blockquote>
