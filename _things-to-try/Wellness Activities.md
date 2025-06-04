@@ -19,6 +19,10 @@ description: ""
 <br><strong>Vacancies available: 30 pax each session<br></strong>
 <br><em>Click <a href="https://publicservicelearningfestival.squarespace.com/pre-lf-ljs" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for registration</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Basic colour analysis workshop" src="/images/Basic_Colour_Analysis_Workshop.jpg">
+</div>
 <p><em>_____________________________________________________________________________________________</em>
 </p>
 <p></p>
@@ -57,6 +61,10 @@ consultation and spine analysis to support your overall wellness.</p>
 <br><em>Click <a href="https://publicservicelearningfestival.squarespace.com/pre-lf-ljs" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for registration</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Liang Yi TCM and Spine Check" src="/images/Liang_Yi_TCM___Spine_Check.jpg">
+</div>
+<p></p>
 <p><em>______________________________________________________________________________________________________</em>
 </p>
 <p></p>
@@ -77,6 +85,10 @@ stitches—ideal for all skill levels. No prior knitting experience required
 <br><strong>Vacancies available: 20 pax each session<br></strong>
 <br><em>Click <a href="https://publicservicelearningfestival.squarespace.com/pre-lf-ljs" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for registration</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chunky knit bag workshop" src="/images/Chunky_Knit_Bag_Workshop.jpg">
+</div>
 <p></p>
 <p><em>________________________________________________________________________________________________________</em>
 </p>
@@ -119,6 +131,10 @@ or ability, it is never too late to get started on pilates.</p>
 <br><em>Click <a href="https://publicservicelearningfestival.squarespace.com/pre-lf-ljs" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for registration</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pilates" src="/images/Gentle_Pilates.jpg">
+</div>
+<p></p>
 <p><em>__________________________________________________________________________________________________</em>
 </p>
 <p></p>
@@ -142,4 +158,8 @@ your mind and rejuvenate your body with our certified Yoga trainer.</p>
 <br><strong>Vacancies available: 20 pax each session<br></strong>
 <br><em>Click <a href="https://publicservicelearningfestival.squarespace.com/pre-lf-ljs" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for registration</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Yoga" src="/images/yoga_4.jpg">
+</div>
 <p></p>
