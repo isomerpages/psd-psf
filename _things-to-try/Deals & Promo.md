@@ -4,7 +4,7 @@ permalink: /deals-promo/
 variant: tiptap
 description: ""
 ---
-<h3><strong>CIVIL SERVICE CLUB </strong></h3>
+<h3><strong>CIVIL SERVICE CLUB</strong></h3>
 <h3><strong>Swimming Pool Access</strong></h3>
 <h3>Public officers enjoy FREE weekday access to any Civil Service Club swimming pools</h3>
 <p>1. Valid on weekdays from 1 to 31 July 2025 via walk-in.</p>
@@ -14,6 +14,8 @@ their civil service card or agency staff pass at the pool counter for access.</p
 <p>3. Public officers may sign in up to 3 guests. Guests are to pay prevailing
 guest rates at the pool counter.</p>
 <p>4. Subject to pool capacity during walk-in.</p>
+<p></p>
+<p>_____________________________________________________________________________________________________</p>
 <p></p>
 <h3><strong>Weekend Family Fun Pool @ Tessensohn</strong></h3>
 <h3>Public officers enjoy FREE access to Weekend Family Fun Pool on 20 July 2025, Saturday</h3>
@@ -45,6 +47,7 @@ payable at the pool counter.</p>
 in more than 3 family members or guests. This will be subjected to capacity
 limit. A confirmation response will be provided once the request is approved.</p>
 <p></p>
+<p>______________________________________________________________________________________________________</p>
 <h3><strong>Bowling fun at Planet Bowl and Westwood Bowl</strong></h3>
 <h3>Public officers enjoy CSC members’ rate at Planet Bowl and Westwood Bowl</h3>
 <p>1. Valid on weekdays (off-peak) from 1 to 31 July 2025 via walk-in.</p>
@@ -55,12 +58,13 @@ or agency staff pass at the bowling counter to enjoy CSC members’ rate.</p>
 confirm any booking of lanes.</p>
 <p>4. Not applicable with other promotions.</p>
 <p></p>
+<p>____________________________________________________________________________________________________</p>
 <h3><strong>Treehouse @ Bukit Batok</strong></h3>
 <h3>Public officers/ CSC members enjoy 10% OFF Treehouse booking at CSC @ Bukit Batok</h3>
 <p>1. Public officers must email to <a href="mailto:bukitbatok@csc.sg" rel="noopener noreferrer nofollow" target="_blank">bukitbatok@csc.sg</a> to make their booking.
 The booking is not completed until payment is made, and confirmation email
 from CSC is generated.</p>
-<p>2. CSC members may book by writing to <a href="mailto:bukitbatok@csc.sg" rel="noopener noreferrer nofollow" target="_blank">bukitbatok@csc.sg</a> 
+<p>2. CSC members may book by writing to <a href="mailto:bukitbatok@csc.sg" rel="noopener noreferrer nofollow" target="_blank">bukitbatok@csc.sg</a>
 </p>
 <p>3. Valid for off-peak (Mon to Fri) bookings between 1 to 31 July 2025.</p>
 <p>4. Write to <a href="mailto:bukitbatok@csc.sg" rel="noopener noreferrer nofollow" target="_blank">bukitbatok@csc.sg</a> to
@@ -68,6 +72,7 @@ enquire.</p>
 <p>5. Promotion applies on public officer/ CSC members rates accordingly.</p>
 <p>6. Not applicable with other promotions.</p>
 <p></p>
+<p>_________________________________________________________________________________________________</p>
 <h3><strong>BBQ Pavilion @ Changi</strong></h3>
 <h3>Public officers/ CSC members enjoy 10% OFF BBQ Pavilion booking at CSC @ Changi</h3>
 <p></p>
@@ -83,6 +88,7 @@ enquire.</p>
 <p>5. Promotion applies on public officer/ CSC members rates accordingly.</p>
 <p>6. Not applicable with other promotions.</p>
 <p></p>
+<p>_____________________________________________________________________________________________________</p>
 <h3><strong>Civil Service Club Chalets</strong></h3>
 <h3>Public officers enjoy 30% OFF for first time booking for CSC @ Changi chalets</h3>
 <p></p>
