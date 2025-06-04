@@ -20,7 +20,7 @@ This opportunity to interact with individuals with
 disabilities fosters empathy, breaks down barriers and
 promotes a more inclusive mindset among public officers. It will help us to understand accessibility more deeply, while enabling us to contribute actively to building a more inclusive
 society.</p>
-<p><em>Registration opens on 4 June!</em></p>
+<p><em>Click <a href="https://publicservicelearningfestival.squarespace.com/pre-lf-ljs">here</a> for more information and registration</em></p>
 <br>
 <hr>
 
@@ -38,7 +38,7 @@ building and the different purposes it has served over the years. Find out more 
 and understand how the people, private, and public sectors can contribute
 their time and skills through volunteering opportunities and care for the
 community by engaging the ground and understanding their needs.</p>
-<p><em>Registration opens on 4 June!</em></p>
+<p><em>Click <a href="https://publicservicelearningfestival.squarespace.com/pre-lf-ljs">here</a> for more information and registration</em></p>
 <br>
 <hr>
 
@@ -52,5 +52,5 @@ community by engaging the ground and understanding their needs.</p>
 community, and long-term care services. Learn how policymakers leverage demographic data to design healthcare services
 and how WHC’s Vibrant Campus Initiative helps to infuse arts and culture into the healthcare setting and integrate the Campus with the community.
 This campus brings together healthcare providers and partners, fostering connections among them and with the community they serve to enhance their ability to contribute to residents’ health and well-being.</p>
-<p><em>Registration opens on 4 June!</em>
-</p>
+<p><em>Click <a href="https://publicservicelearningfestival.squarespace.com/pre-lf-ljs">here</a> for more information and registration</em></p>
+<p></p>
