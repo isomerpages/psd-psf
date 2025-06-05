@@ -17,7 +17,7 @@ description: ""
 <p>$30 (Public officer/ CSC Member) | $35 (Guest)</p>
 <p>
 <br><strong>Vacancies available: 30 pax each session<br></strong>
-<br><em>Click <a href="https://publicservicelearningfestival.squarespace.com/pre-lf-ljs" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for registration</em>
+<br><em>Click </em><a href="https://form.gov.sg/68380b51363265746ad39a2c" rel="noopener nofollow" target="_blank">here</a><em> for registration</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -39,7 +39,7 @@ all fitness levels.</p>
 <p>$10 (Public officers/ CSC Member) | $15 (Guest)</p>
 <p>
 <br><strong>Vacancies available: 20 pax each session<br></strong>
-<br><em>Click <a href="https://publicservicelearningfestival.squarespace.com/pre-lf-ljs" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for registration</em>
+<br><em>Click </em><a href="https://form.gov.sg/68380b51363265746ad39a2c" rel="noopener nofollow" target="_blank">here</a><em> for registration</em>
 </p>
 <p></p>
 <p><em>_____________________________________________________________________________________________________</em>
@@ -58,7 +58,7 @@ consultation and spine analysis to support your overall wellness.</p>
 <p>$4 (Public officers/ CSC Member) | $6 (Guest)</p>
 <p>
 <br><strong>Vacancies available: 50 pax each session<br></strong>
-<br><em>Click <a href="https://publicservicelearningfestival.squarespace.com/pre-lf-ljs" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for registration</em>
+<br><em>Click </em><a href="https://form.gov.sg/68380b51363265746ad39a2c" rel="noopener nofollow" target="_blank">here </a><em>for registration</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -83,7 +83,7 @@ stitches—ideal for all skill levels. No prior knitting experience required
 <p>$40 (Public officers/ CSC Member) | $45 (Guest)</p>
 <p>
 <br><strong>Vacancies available: 20 pax each session<br></strong>
-<br><em>Click <a href="https://publicservicelearningfestival.squarespace.com/pre-lf-ljs" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for registration</em>
+<br><em>Click </em><a href="https://form.gov.sg/68380b51363265746ad39a2c" rel="noopener nofollow" target="_blank">here</a><em> for registration</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -107,7 +107,7 @@ levels and a great way to relax outdoors.</p>
 <p>Location: CSC @ Loyang</p>
 <p>$13 (Public officers/ CSC Member) | $15 (Guest)</p>
 <p>
-<br><em>Click <a href="https://publicservicelearningfestival.squarespace.com/pre-lf-ljs" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for registration</em>
+<br><em>Click </em><a href="https://form.gov.sg/68380b51363265746ad39a2c" rel="noopener nofollow" target="_blank">here</a><em> for registration</em>
 </p>
 <p></p>
 <p><em>______________________________________________________________________________________________________</em>
@@ -128,7 +128,7 @@ or ability, it is never too late to get started on Pilates.</p>
 <p>$30 (Public officers/ CSC Member) | $35 (Guest)</p>
 <p>
 <br><strong>Vacancies available: 20 pax each session<br></strong>
-<br><em>Click <a href="https://publicservicelearningfestival.squarespace.com/pre-lf-ljs" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for registration</em>
+<br><em>Click </em><a href="https://form.gov.sg/68380b51363265746ad39a2c" rel="noopener nofollow" target="_blank">here</a><em> for registration</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -156,7 +156,7 @@ your mind and rejuvenate your body with our certified Yoga trainer.</p>
 <p>$30 (Public officers/ CSC Member) | $35 (Guest)</p>
 <p>
 <br><strong>Vacancies available: 20 pax each session<br></strong>
-<br><em>Click <a href="https://publicservicelearningfestival.squarespace.com/pre-lf-ljs" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for registration</em>
+<br><em>Click </em><a href="https://form.gov.sg/68380b51363265746ad39a2c" rel="noopener nofollow" target="_blank">here</a><em> for registration</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
