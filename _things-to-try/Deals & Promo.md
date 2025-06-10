@@ -23,7 +23,7 @@ guest rates at the pool counter.</p>
 <p>_____________________________________________________________________________________________________</p>
 <p></p>
 <h3><strong>Weekend Family Fun Pool @ Tessensohn</strong></h3>
-<h3>Public officers enjoy FREE access to Weekend Family Fun Pool on 20 July 2025, Saturday</h3>
+<h3>Public officers enjoy FREE access to Weekend Family Fun Pool on 20 July 2025, Sunday</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Family fun pool at csc tessensohn" src="/images/Weekend_Fun_Pool__7_.jpg">
