@@ -28,9 +28,9 @@ guest rates at the pool counter.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Family fun pool at csc tessensohn" src="/images/Weekend_Fun_Pool__7_.jpg">
 </div>
-<p>1. The FREE weekend fun pool access is only available on Saturday, 26
-July 2025 with 4 sessions. Each public officer is allowed to book only
-one time slot of 120 minutes on a first-come first-served basis as follows:</p>
+<p>1. The FREE weekend fun pool access is only available on Sunday, 20 July
+2025 with 4 sessions. Each public officer is allowed to book only one time
+slot of 120 minutes on a first-come first-served basis as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>8.00am to 10.00am</p>
