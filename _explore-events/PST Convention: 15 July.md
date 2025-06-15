@@ -42,7 +42,7 @@ sector leaders</p>
 </ul>
 <h3>TED-style talks Speakers</h3>
 <p><strong>Arundhati Bhattacharya</strong>
-<br>President &amp; CEO at Salesforce, South Asia
+<br>President &amp; CEO, Salesforce - South Asia
 <br>
 <br><strong>Yuen Kuan Moon </strong>
 <br>Group CEO, Singtel
