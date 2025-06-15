@@ -42,31 +42,10 @@ sector leaders</p>
 </ul>
 <h3>TED-style talks Speakers</h3>
 <p><strong>Arundhati Bhattacharya</strong>
-<br>Chairperson &amp; CEO, Salesforce India and South Asia
+<br>President &amp; CEO at Salesforce, South Asia
 <br>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yuen_Kuan_Moon.png">
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Yuen Kuan Moon (</strong>Group CEO, Singtel)</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>
-<br>Testing testing
-<br>
-<br>Testing Testing
-<br>
+<br><strong>Yuen Kuan Moon </strong>
 <br>Group CEO, Singtel
-<br>
-<br>Group CEO, Singtel
-<br>
-<br>Group CEO, Singtel</p>
-</div>
-</details>
-</div>
-<p>
 <br>
 </p>
 <h3>Breakout Sessions Speakers</h3>
