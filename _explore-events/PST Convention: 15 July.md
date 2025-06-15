@@ -69,14 +69,6 @@ sector leaders</p>
 <p>
 <br>
 </p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <h3>Breakout Sessions Speakers</h3>
 <p><strong>[Session 1] Work: Transforming the public sector to serve the reinvention of businesses</strong>
 </p>
