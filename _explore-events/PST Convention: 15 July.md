@@ -134,8 +134,15 @@ Ngee Ann Polytechnic Council. </p>
 <td rowspan="1" colspan="1">
 <p><strong>Musa Fazal</strong> 
 <br>Chief Policy Officer, Singapore Business Federation (SBF)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___SBF_Chief_Policy_Officer_Musa_Fazal.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speaker</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Musa Fazal is the Chief Policy Officer at the Singapore Business Federation
 (SBF), where he leads the Advocacy and Planning Division. In this role,
 he drives SBF’s efforts to advance the interests of Singapore businesses
@@ -145,20 +152,26 @@ support business transformation and international economic engagement.
 The organization has launched initiatives to promote sustainability, digitalisation,
 and talent development among businesses. Additionally, SBF has facilitated
 international collaborations and partnerships to enhance the global competitiveness
-of Singaporean enterprises.</p>
+of Singaporean enterprises</p>
 <p>Prior to joining SBF in November 2023, Musa spent over 17 years in the
 Singapore Public Service, holding various leadership positions in organizations
 such as the Monetary Authority of Singapore, Ministry of Finance, Ministry
 of Manpower, and Ministry of Trade and Industry. Notably, he served as
 Senior Director of the Futures, Strategy and Plans Division at the Ministry
 of Trade and Industry, where he drove strategic planning efforts for the
-Singapore economy and served as secretary to the Future Economy Council.&nbsp;</p>
+Singapore economy and served as secretary to the Future Economy Council.</p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Jane Lim</strong>
 <br>Deputy Secretary, Ministry of Trade &amp; Industry (MTI)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___MTI_DS_Jane_Lim.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jane Lim is the Deputy Secretary (Trade and International Economic Relations)
