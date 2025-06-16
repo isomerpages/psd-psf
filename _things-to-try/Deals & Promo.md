@@ -121,8 +121,11 @@ enquire.</p>
 1 to 31 July 2025, for stays till 31 July 2025.</p>
 <p>2. Public officers are to use promo code “NEWPO’ on <a href="http://www.cscchalets.sg" rel="noopener noreferrer nofollow" target="_blank">www.cscchalets.sg</a>
 </p>
-<p>3. Write to <a href="mailto:changi@csc.sg" rel="noopener noreferrer nofollow" target="_blank">changi@csc.sg</a> to
-enquire.</p>
+<p>3. Write to the following emails to inquire for respective chalets - CSC
+Changi I : <a href="mailto:rooms@csc.sg" rel="noopener noreferrer nofollow" target="_blank">rooms@csc.sg</a> /
+CSC Changi II : <a href="mailto:changi2@csc.sg" rel="noopener noreferrer nofollow" target="_blank">changi2@csc.sg </a>/
+CSC Loyang : <a href="mailto:loyang@csc.sg" rel="noopener noreferrer nofollow" target="_blank">loyang@csc.sg</a>
+</p>
 <p>4. Proof of public agency or statutory board employment is required at
 check-in, otherwise full rate will be charged.</p>
 <p>5. Not applicable with other promotions.</p>
@@ -135,8 +138,11 @@ check-in, otherwise full rate will be charged.</p>
 <p></p>
 <p>1. Valid for bookings between 1 to 31 July 2025, for stays till 31 November
 2025.</p>
-<p>2. Write to <a href="mailto:changi@csc.sg" rel="noopener noreferrer nofollow" target="_blank">changi@csc.sg</a> to
-enquire.</p>
+<p>2. Write to the following emails to inquire for respective chalets - CSC
+Changi I : <a href="mailto:rooms@csc.sg" rel="noopener noreferrer nofollow" target="_blank">rooms@csc.sg</a> /
+CSC Changi II : <a href="mailto:changi2@csc.sg" rel="noopener noreferrer nofollow" target="_blank">changi2@csc.sg </a>/
+CSC Loyang : <a href="mailto:loyang@csc.sg" rel="noopener noreferrer nofollow" target="_blank">loyang@csc.sg</a>
+</p>
 <p>3. Rates on <a href="http://www.cscchalets.sg" rel="noopener noreferrer nofollow" target="_blank">www.cscchalets.sg</a> will
 reflect the members’ rate between 1 to 31 July 2025.</p>
 <p>4. Proof of public agency or statutory board employment is required at
