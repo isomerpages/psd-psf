@@ -60,7 +60,7 @@ sector leaders</p>
 <br>President &amp; CEO, Salesforce - South Asia</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/birb.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_16_112725.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -222,6 +222,9 @@ She is married with two daughters.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>Kenny Tan</strong>
 <br>Deputy Secretary, Ministry of Manpower (MOM)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___MOM_DS_Kenny_Tan.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -254,8 +257,15 @@ Land Authority and the Institute for Human Resource Professionals.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>Kevin Lai</strong>
 <br>Global Healthcare Practice Co-Leader / Egon Zehnder</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kevin_Lai.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speaker</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Mr Kevin Lai is an advisor to Boards and CEOs, with a particular focus
 on health, where he is the Co-Head for the Global Health Practice. He serves
 private and public companies on succession planning for CEO, other C-level
@@ -269,26 +279,39 @@ he mentors several healthcare start-ups founded by young entrepreneurs
 in Singapore and coaches CEOs of promising local companies.&nbsp;</p>
 <p>Prior to joining Egon Zehnder, Kevin was an Executive Director of the
 Singapore Economic Development Board (EDB).&nbsp;</p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ong Ai Hua</strong>
 <br>Deputy Secretary, Ministry of Social and Family Development (MSF)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DS_Ai_Hua.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speaker</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Ms Ong Ai Hua is currently the Deputy Secretary (Family and Society) in
 the Ministry of Social and Family Development. Her portfolio includes early
 childhood, families, persons with disabilities and women’s development.&nbsp;</p>
+<p>&nbsp;</p>
 <p>Prior to public service, Ai Hua had 30 years of service with Johnson &amp;
 Johnson (J&amp;J). She served as the Asia Pacific business leader for more
 than 2 decades in both Pharmaceuticals and MedTech segments of J&amp;J.
 Her last role before retirement from J&amp;J was head of Government Affairs
 and Policy for Pharmaceuticals, MedTech, and Consumer Health in Asia Pacific.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
 <p>Ai Hua was the Company Group Chair for the Pharmaceutical business of
 Johnson &amp; Johnson 2017-2020, and led a team of more than 7000 employees
 across Asia Pacific with responsibility for regionwide pharmaceutical operations,
 including in the key markets of Japan and China.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
 <p>She previously served as President of One J&amp;J Southeast Asia, where
 she helped pioneer and implement J&amp;J’s first-ever, one-company enterprise
 business model encompassing pharmaceuticals, medical devices, and consumer
@@ -296,6 +319,7 @@ health. She also led the MedTech business for J&amp;J Medical China to
 high growth, pioneered the incubator model for market appropriate products
 and led a team to make J&amp;J’s first acquisition for the MedTech segment
 in China.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
 <p>A champion for talent, Ai Hua mentored many employees in the region and
 globally. She worked closely with the APAC Regional Diversity, Equity &amp;
 Inclusion (DE&amp;I) Council to develop a strategy that connected DEI to
@@ -307,18 +331,29 @@ from the region. Ai Hua also served as Chair of Global Community Impact
 for J&amp;J for 8 years. During her time, she created a unified strategy
 across APAC, mobilized a skill-based employee volunteering program and
 piloted an impact investment program.&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
 <p>She is also a committed volunteer in the pet therapy program and council
 member at the Dover Park Hospice, an advisory board member of Lee Kong
 Chian School of Business and board member of Communicable Disease Agency.&nbsp;</p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Wong Kang Jet </strong>
 <br>Chief Executive Officer, National Environment Agency (NEA)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CE_Kang_Jet___edited.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Kang Jet has been the Chief Executive Officer of the National
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speaker</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>&nbsp;Mr Wong Kang Jet has been the Chief Executive Officer of the National
 Environment Agency in Singapore since April 2023. The National Environment
 Agency is the leading public organisation responsible for ensuring a clean
 and sustainable environment for Singapore. Its key roles are to promote
@@ -331,7 +366,10 @@ at the Ministry of Finance. He has also worked in the Ministry of Defence,
 the Ministry of Education, and the Strategy Group of the Prime Minister’s
 Office.&nbsp;</p>
 <p>Mr Wong graduated with a Master’s Degree in Engineering Science from the
-University of Oxford.&nbsp;</p>
+University of Oxford.</p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 </tbody>
