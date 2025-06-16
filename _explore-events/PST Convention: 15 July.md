@@ -213,6 +213,14 @@ currently serves on the boards of the Central Provident Fund Board, Singapore
 Land Authority and the Institute for Human Resource Professionals.</p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>[Session 2] Workforce: Leading Workforce Development&nbsp;&amp; Seizing Longevity Opportunity</strong>
@@ -223,6 +231,7 @@ Land Authority and the Institute for Human Resource Professionals.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Kevin Lai</strong>
 <br>Global Healthcare Practice Co-Leader / Egon Zehnder</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kevin_Lai.png">
 </div>
@@ -247,6 +256,7 @@ Singapore Economic Development Board (EDB).&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>Ong Ai Hua</strong>
 <br>Deputy Secretary, Ministry of Social and Family Development (MSF)</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DS_Ai_Hua.jpg">
 </div>
@@ -291,6 +301,7 @@ Chian School of Business and board member of Communicable Disease Agency.&nbsp;<
 <td rowspan="1" colspan="1">
 <p><strong>Wong Kang Jet </strong>
 <br>Chief Executive Officer, National Environment Agency (NEA)</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CE_Kang_Jet___edited.jpg">
 </div>
@@ -312,11 +323,19 @@ Office.&nbsp;</p>
 University of Oxford.</p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<th rowspan="1" colspan="2">
 <p><strong>[Session 3] Workplace: Building an innovative culture &amp; digital capabilities to deal with a future of discontinuities and disruptions</strong>
 </p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -324,11 +343,22 @@ University of Oxford.</p>
 <br>Senior Partner of Cyber, NCS Group</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_16_122126.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VVS_NCS_FooSiang_tse_042_LO_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Foo Siang-Tse leads the cybersecurity practice at NCS Group, driving growth
+and innovation across the region. He oversees both client-facing cybersecurity
+services and the company’s internal cyber resilience efforts. With a strong
+background in IT security and public service, Foo has held leadership roles
+including CEO of Quann Asia Pacific, one of Asia’s largest cybersecurity
+managed service providers, and Senior Director at Singapore’s Ministry
+of Home Affairs.&nbsp;</p>
+<p>Under his leadership, NCS drives innovative cybersecurity solutions and
+partnerships, emphasizing a collaborative ecosystem to address sophisticated
+cyber threats. Foo is also a key advocate for developing cybersecurity
+talent, supporting initiatives like the Skills Pathway for Cybersecurity
+to bridge industry demand.</p>
 </td>
 </tr>
 <tr>
@@ -337,11 +367,24 @@ University of Oxford.</p>
 <br>Chief Executive, Defence Science and Technology Agency (DSTA)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_16_122126.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CE_DSTA_Ng_Chad_Son.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ng Chad-Son is the Chief Executive of Singapore’s Defence Science and
+Technology Agency (DSTA). He previously served as Deputy Secretary (Technology)
+and Future Systems and Technology Architect at the Ministry of Defence,
+where he oversaw technology roadmapping, industry development and defence
+R&amp;D investments.  He was also Director of Military Intelligence and
+Chief of Command, Control, Communications, Computer and Intelligence (C4I)
+in the Singapore Armed Forces, where he played a pivotal role in the formation
+of the SAF’s Digital and Intelligence Service. During Ng’s years of service
+in defence technology and public sector leadership, he has driven transformation
+efforts to make Singapore’s defence technology community more agile, innovative,
+and future-ready.</p>
+<p>He also contributed to Small and Medium Enterprise development and national
+R&amp;D development as Director of Research and Enterprise Division at
+the Ministry of Trade and Industry.</p>
 </td>
 </tr>
 <tr>
@@ -350,10 +393,22 @@ University of Oxford.</p>
 <br>Deputy Secretary, Ministry of Digital Development and Information (MDDI)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_16_122126.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DS_FJ_s_photo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p>Sim Feng-Ji serves as the Deputy Secretary (Smart Nation and Digital Government)
+at the Ministry of Digital Development and Information (MDDI), where he
+leads Singapore’s digital transformation efforts to build a resilient and
+innovative public sector. He focuses on enhancing digital government services,
+urban living, transport, and business operations to prepare Singapore for
+future disruptions and technological discontinuities. Additionally, Sim
+currently serves on the board of Enterprise Singapore.&nbsp;&nbsp;</p>
+<p>Before his present role, Sim Feng-ji was Divisional Director of the Income
+Security Policy Division at the Ministry of Manpower, overseeing policies
+related to the Central Provident Fund (CPF), income security, and financial
+planning. He also served on the board of the Intellectual Property Office
+of Singapore for six years.&nbsp;&nbsp;</p>
 <p></p>
 </td>
 </tr>
