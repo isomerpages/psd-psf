@@ -64,7 +64,7 @@ sector leaders</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Arundhati Bhattacharya is the Chairperson and CEO of Salesforce India
+<p>Arundhati Bhattacharya is the Chairperson and CEO of Salesforce India
 and South Asia, leading the company's strategic growth and digital transformation
 initiatives across the region. Under her leadership, Salesforce India has
 been instrumental in helping organizations reinvent their business models,
@@ -90,7 +90,7 @@ advancements.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>As Group CEO since 1 January 2021, Mr Yuen Kuan Moon has been instrumental
+<p>As Group CEO since 1 January 2021, Yuen Kuan Moon has been instrumental
 in leading one of Singtel’s most ambitious transformations to reposition
 the Group for growth amid accelerated digitalisation and disruption in
 the telecommunications industry. &nbsp;</p>
@@ -227,8 +227,8 @@ Land Authority and the Institute for Human Resource Professionals.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kevin Lai is an advisor to Boards and CEOs, with a particular focus
-on health, where he is the Co-Head for the Global Health Practice. He serves
+<p>Kevin Lai is an advisor to Boards and CEOs, with a particular focus on
+health, where he is the Co-Head for the Global Health Practice. He serves
 private and public companies on succession planning for CEO, other C-level
 positions and Non-Executive positions and advises clients on CEO development,
 top team effectiveness, and board effectiveness. Kevin is a trained and
@@ -251,9 +251,9 @@ Singapore Economic Development Board (EDB).&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Ong Ai Hua is currently the Deputy Secretary (Family and Society)
-in the Ministry of Social and Family Development. Her portfolio includes
-early childhood, families, persons with disabilities and women’s development.</p>
+<p>Ong Ai Hua is currently the Deputy Secretary (Family and Society) in the
+Ministry of Social and Family Development. Her portfolio includes early
+childhood, families, persons with disabilities and women’s development.</p>
 <p>Prior to public service, Ai Hua had 30 years of service with Johnson &amp;
 Johnson (J&amp;J). She served as the Asia Pacific business leader for more
 than 2 decades in both Pharmaceuticals and MedTech segments of J&amp;J.
@@ -295,19 +295,19 @@ Chian School of Business and board member of Communicable Disease Agency.&nbsp;<
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Kang Jet has been the Chief Executive Officer of the National
-Environment Agency in Singapore since April 2023. The National Environment
-Agency is the leading public organisation responsible for ensuring a clean
-and sustainable environment or Singapore. Its key roles are to promote
-sustainability and resource efficiency, create a safe, and conducive living
-environment, maintain high public health standards, and provide timely
-and reliable meteorological information.&nbsp;</p>
-<p>Prior to his current appointment, Mr Wong was Principal Private Secretary
-to the Deputy Prime Minister. Mr Wong started his public service career
-at the Ministry of Finance. He has also worked in the Ministry of Defence,
+<p>Wong Kang Jet has been the Chief Executive Officer of the National Environment
+Agency in Singapore since April 2023. The National Environment Agency is
+the leading public organisation responsible for ensuring a clean and sustainable
+environment or Singapore. Its key roles are to promote sustainability and
+resource efficiency, create a safe, and conducive living environment, maintain
+high public health standards, and provide timely and reliable meteorological
+information.&nbsp;</p>
+<p>Prior to his current appointment, Wong was Principal Private Secretary
+to the Deputy Prime Minister. Wong started his public service career at
+the Ministry of Finance. He has also worked in the Ministry of Defence,
 the Ministry of Education, and the Strategy Group of the Prime Minister’s
 Office.&nbsp;</p>
-<p>Mr Wong graduated with a Master’s Degree in Engineering Science from the
+<p>Wong graduated with a Master’s Degree in Engineering Science from the
 University of Oxford.</p>
 </td>
 </tr>
