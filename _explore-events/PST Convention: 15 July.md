@@ -64,6 +64,10 @@ sector leaders</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speaker</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Ms. Arundhati Bhattacharya is the Chairperson and CEO of Salesforce India
 and South Asia, leading the company's strategic growth and digital transformation
 initiatives across the region. Under her leadership, Salesforce India has
@@ -78,6 +82,9 @@ Customer Success, Innovation, Equality, and Sustainability . She has been
 a vocal advocate for lifelong learning and workforce agility, emphasizing
 the importance of continuous skill development in the face of rapid technological
 advancements.&nbsp;</p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 <tr>
@@ -90,6 +97,10 @@ advancements.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speaker</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>As Group CEO since 1 January 2021, Mr Yuen Kuan Moon has been instrumental
 in leading one of Singtel’s most ambitious transformations to reposition
 the Group for growth amid accelerated digitalisation and disruption in
@@ -109,6 +120,9 @@ serving on the Board of Commissioners of Telkomsel since 2009. In addition,
 Moon is a board member of the Defence Science and Technology Agency and
 the Singapore Institute of Management, besides being the Chairman of the
 Ngee Ann Polytechnic Council. </p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 </tbody>
