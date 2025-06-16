@@ -227,24 +227,17 @@ She is married with two daughters.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>About the Speaker</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p>Kenny Tan is the Deputy Secretary (Workforce) at the Ministry of Manpower
 (MOM). His mission is to empower Singaporeans in achieving career progression
-and retirement adequacy.&nbsp;</p>
+and retirement adequacy.&nbsp;&nbsp;</p>
 <p>Kenny’s work in MOM involves collaborating with tripartite partners to
 implement active labour market programmes and foreign workforce policies
 that support economic and workforce transformation, creating good jobs
-for Singaporeans.&nbsp;&nbsp;</p>
+for Singaporeans.&nbsp;</p>
 <p>Prior to his current role, Kenny held various positions in the Ministry
 of Home Affairs, Ministry of Finance, and the Singapore Police Force. He
 currently serves on the boards of the Central Provident Fund Board, Singapore
-Land Authority and the Institute for Human Resource Professionals.&nbsp;</p>
-</div>
-</details>
-</div>
+Land Authority and the Institute for Human Resource Professionals.</p>
 </td>
 </tr>
 <tr>
@@ -262,16 +255,12 @@ Land Authority and the Institute for Human Resource Professionals.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>About the Speaker</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p>Mr Kevin Lai is an advisor to Boards and CEOs, with a particular focus
 on health, where he is the Co-Head for the Global Health Practice. He serves
 private and public companies on succession planning for CEO, other C-level
 positions and Non-Executive positions and advises clients on CEO development,
 top team effectiveness, and board effectiveness. Kevin is a trained and
-certified Integral Coach by New Ventures West.&nbsp;</p>
+certified Integral Coach by New Ventures West.</p>
 <p>Kevin is passionate about professional development in Singapore. He supports
 the Singapore Institute of Directors by training new directors through
 their Listed Entity Directors and the Board Readiness Programs. Additionally,
@@ -279,9 +268,6 @@ he mentors several healthcare start-ups founded by young entrepreneurs
 in Singapore and coaches CEOs of promising local companies.&nbsp;</p>
 <p>Prior to joining Egon Zehnder, Kevin was an Executive Director of the
 Singapore Economic Development Board (EDB).&nbsp;</p>
-</div>
-</details>
-</div>
 </td>
 </tr>
 <tr>
@@ -293,33 +279,25 @@ Singapore Economic Development Board (EDB).&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>About the Speaker</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p>Ms Ong Ai Hua is currently the Deputy Secretary (Family and Society) in
 the Ministry of Social and Family Development. Her portfolio includes early
-childhood, families, persons with disabilities and women’s development.&nbsp;</p>
-<p>&nbsp;</p>
+childhood, families, persons with disabilities and women’s development.</p>
 <p>Prior to public service, Ai Hua had 30 years of service with Johnson &amp;
 Johnson (J&amp;J). She served as the Asia Pacific business leader for more
 than 2 decades in both Pharmaceuticals and MedTech segments of J&amp;J.
 Her last role before retirement from J&amp;J was head of Government Affairs
-and Policy for Pharmaceuticals, MedTech, and Consumer Health in Asia Pacific.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
+and Policy for Pharmaceuticals, MedTech, and Consumer Health in Asia Pacific.&nbsp;</p>
 <p>Ai Hua was the Company Group Chair for the Pharmaceutical business of
 Johnson &amp; Johnson 2017-2020, and led a team of more than 7000 employees
 across Asia Pacific with responsibility for regionwide pharmaceutical operations,
-including in the key markets of Japan and China.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
+including in the key markets of Japan and China.&nbsp;</p>
 <p>She previously served as President of One J&amp;J Southeast Asia, where
 she helped pioneer and implement J&amp;J’s first-ever, one-company enterprise
 business model encompassing pharmaceuticals, medical devices, and consumer
 health. She also led the MedTech business for J&amp;J Medical China to
 high growth, pioneered the incubator model for market appropriate products
 and led a team to make J&amp;J’s first acquisition for the MedTech segment
-in China.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
+in China.&nbsp;</p>
 <p>A champion for talent, Ai Hua mentored many employees in the region and
 globally. She worked closely with the APAC Regional Diversity, Equity &amp;
 Inclusion (DE&amp;I) Council to develop a strategy that connected DEI to
@@ -331,13 +309,9 @@ from the region. Ai Hua also served as Chair of Global Community Impact
 for J&amp;J for 8 years. During her time, she created a unified strategy
 across APAC, mobilized a skill-based employee volunteering program and
 piloted an impact investment program.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
 <p>She is also a committed volunteer in the pet therapy program and council
 member at the Dover Park Hospice, an advisory board member of Lee Kong
 Chian School of Business and board member of Communicable Disease Agency.&nbsp;</p>
-</div>
-</details>
-</div>
 </td>
 </tr>
 <tr>
@@ -349,14 +323,10 @@ Chian School of Business and board member of Communicable Disease Agency.&nbsp;<
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>About the Speaker</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>&nbsp;Mr Wong Kang Jet has been the Chief Executive Officer of the National
+<p>Mr Wong Kang Jet has been the Chief Executive Officer of the National
 Environment Agency in Singapore since April 2023. The National Environment
 Agency is the leading public organisation responsible for ensuring a clean
-and sustainable environment for Singapore. Its key roles are to promote
+and sustainable environment or Singapore. Its key roles are to promote
 sustainability and resource efficiency, create a safe, and conducive living
 environment, maintain high public health standards, and provide timely
 and reliable meteorological information.&nbsp;</p>
@@ -367,9 +337,6 @@ the Ministry of Education, and the Strategy Group of the Prime Minister’s
 Office.&nbsp;</p>
 <p>Mr Wong graduated with a Master’s Degree in Engineering Science from the
 University of Oxford.</p>
-</div>
-</details>
-</div>
 </td>
 </tr>
 <tr>
