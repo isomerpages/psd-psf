@@ -174,6 +174,10 @@ Singapore economy and served as secretary to the Future Economy Council.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speaker</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Jane Lim is the Deputy Secretary (Trade and International Economic Relations)
 at the Ministry of Trade and Industry (MTI), Singapore. She is responsible
 for Singapore’s trade and external economic relations. This includes the
@@ -195,6 +199,9 @@ property policy development.&nbsp;&nbsp;</p>
 of Technology. She also holds a Masters in Political Science with MIT and
 majored in both Biological Sciences and Government at Cornell University.
 She is married with two daughters.&nbsp;</p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 <tr>
@@ -203,6 +210,10 @@ She is married with two daughters.&nbsp;</p>
 <br>Deputy Secretary, Ministry of Manpower (MOM)</p>
 </td>
 <td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Speaker</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Kenny Tan is the Deputy Secretary (Workforce) at the Ministry of Manpower
 (MOM). His mission is to empower Singaporeans in achieving career progression
 and retirement adequacy.&nbsp;</p>
@@ -214,6 +225,9 @@ for Singaporeans.&nbsp;&nbsp;</p>
 of Home Affairs, Ministry of Finance, and the Singapore Police Force. He
 currently serves on the boards of the Central Provident Fund Board, Singapore
 Land Authority and the Institute for Human Resource Professionals.&nbsp;</p>
+</div>
+</details>
+</div>
 </td>
 </tr>
 <tr>
