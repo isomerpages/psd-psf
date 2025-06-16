@@ -60,7 +60,7 @@ sector leaders</p>
 <br>President &amp; CEO, Salesforce - South Asia</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_16_112725.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_16_122126.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,6 +109,7 @@ serving on the Board of Commissioners of Telkomsel since 2009. In addition,
 Moon is a board member of the Defence Science and Technology Agency and
 the Singapore Institute of Management, besides being the Chairman of the
 Ngee Ann Polytechnic Council. </p>
+<p></p>
 </td>
 </tr>
 </tbody>
