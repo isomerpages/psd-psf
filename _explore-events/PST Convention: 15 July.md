@@ -60,7 +60,7 @@ sector leaders</p>
 <br>President &amp; CEO, Salesforce - South Asia</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_16_122126.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_16_151226.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
