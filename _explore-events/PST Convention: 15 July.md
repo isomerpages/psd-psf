@@ -414,40 +414,4 @@ of Singapore for six years.&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<h3>TED-style talks Speakers</h3>
-<p><strong>Arundhati Bhattacharya</strong>
-<br>President &amp; CEO, Salesforce - South Asia
-<br>
-<br><strong>Yuen Kuan Moon </strong>
-<br>Group CEO, Singtel</p>
-<h3>Breakout Sessions Speakers</h3>
-<p><strong>[Session 1] Work: Transforming the public sector to serve the reinvention of businesses</strong>
-</p>
-<p><strong>Musa Fazal</strong> 
-<br>Chief Policy Officer, Singapore Business Federation (SBF)</p>
-<p><strong>Jane Lim</strong>
-<br>Deputy Secretary, Ministry of Trade &amp; Industry (MTI)</p>
-<p><strong>Kenny Tan</strong>
-<br>Deputy Secretary, Ministry of Manpower (MOM)
-<br>
-</p>
-<p>
-<br><strong>[Session 2] Workforce: Leading Workforce Development&nbsp;&amp; Seizing Longevity Opportunity</strong>
-</p>
-<p><strong>Kevin Lai</strong>
-<br>Global Healthcare Practice Co-Leader / Egon Zehnder</p>
-<p><strong>Ong Ai Hua</strong>
-<br>Deputy Secretary, Ministry of Social and Family Development (MSF)</p>
-<p><strong>Wong Kang Jet </strong>
-<br>Chief Executive Officer, National Environment Agency (NEA)
-<br>
-<br>
-<br><strong>[Session 3] Workplace: Building an innovative culture &amp; digital capabilities to deal with a future of discontinuities and disruptions</strong>
-</p>
-<p><strong>Foo Siang-Tse</strong>
-<br>Senior Partner of Cyber, NCS Group</p>
-<p><strong>Ng Chad-Son</strong>
-<br>Chief Executive, Defence Science and Technology Agency (DSTA)</p>
-<p><strong>Sim Feng-Ji</strong>
-<br>Deputy Secretary, Ministry of Digital Development and Information (MDDI)</p>
 <p></p>
