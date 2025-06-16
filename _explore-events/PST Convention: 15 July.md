@@ -64,27 +64,20 @@ sector leaders</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>About the Speaker</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p>Ms. Arundhati Bhattacharya is the Chairperson and CEO of Salesforce India
 and South Asia, leading the company's strategic growth and digital transformation
 initiatives across the region. Under her leadership, Salesforce India has
 been instrumental in helping organizations reinvent their business models,
-future-proof their workforce, and navigate technological disruptions.&nbsp;</p>
+future-proof their workforce, and navigate technological disruptions.</p>
 <p>Prior to joining Salesforce in 2020, Bhattacharya served as the first
 woman Chairperson of the State Bank of India (SBI), where she spearheaded
-the bank's digital transformation and led significant organizational changes.&nbsp;&nbsp;</p>
+the bank's digital transformation and led significant organizational changes.&nbsp;</p>
 <p>At Salesforce, Bhattacharya has focused on fostering a unified organizational
 culture and driving innovation through the company's core values: Trust,
 Customer Success, Innovation, Equality, and Sustainability . She has been
 a vocal advocate for lifelong learning and workforce agility, emphasizing
 the importance of continuous skill development in the face of rapid technological
 advancements.&nbsp;</p>
-</div>
-</details>
-</div>
 </td>
 </tr>
 <tr>
@@ -97,10 +90,6 @@ advancements.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>About the Speaker</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p>As Group CEO since 1 January 2021, Mr Yuen Kuan Moon has been instrumental
 in leading one of Singtel’s most ambitious transformations to reposition
 the Group for growth amid accelerated digitalisation and disruption in
@@ -110,7 +99,7 @@ performance, capitalise on growth trends to deliver sustained value realisation,
 while championing people and sustainability. The strategic reset he introduced
 at the start of his tenure has altered the fundamental make-up of the Group
 – redefining it along the lines of connectivity, digital services and digital
-infrastructure.&nbsp;</p>
+infrastructure.&nbsp;&nbsp;</p>
 <p>Prior to his appointment as Group CEO, Moon ran Singtel’s consumer business
 in Singapore as CEO since 2012. He was also responsible for the Group’s
 digital transformation, double hatting as the Group’s Chief Digital Officer
@@ -120,9 +109,6 @@ serving on the Board of Commissioners of Telkomsel since 2009. In addition,
 Moon is a board member of the Defence Science and Technology Agency and
 the Singapore Institute of Management, besides being the Chairman of the
 Ngee Ann Polytechnic Council. </p>
-</div>
-</details>
-</div>
 </td>
 </tr>
 </tbody>
@@ -153,30 +139,23 @@ Ngee Ann Polytechnic Council. </p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>About the Speaker</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p>Musa Fazal is the Chief Policy Officer at the Singapore Business Federation
 (SBF), where he leads the Advocacy and Planning Division. In this role,
 he drives SBF’s efforts to advance the interests of Singapore businesses
-by shaping policies both locally and internationally.&nbsp;&nbsp;</p>
+by shaping policies both locally and internationally.&nbsp;</p>
 <p>Musa is instrumental in SBF’s efforts in advocating for policies that
 support business transformation and international economic engagement.
 The organization has launched initiatives to promote sustainability, digitalisation,
 and talent development among businesses. Additionally, SBF has facilitated
 international collaborations and partnerships to enhance the global competitiveness
-of Singaporean enterprises</p>
+of Singaporean enterprises.&nbsp;</p>
 <p>Prior to joining SBF in November 2023, Musa spent over 17 years in the
 Singapore Public Service, holding various leadership positions in organizations
 such as the Monetary Authority of Singapore, Ministry of Finance, Ministry
 of Manpower, and Ministry of Trade and Industry. Notably, he served as
 Senior Director of the Futures, Strategy and Plans Division at the Ministry
 of Trade and Industry, where he drove strategic planning efforts for the
-Singapore economy and served as secretary to the Future Economy Council.</p>
-</div>
-</details>
-</div>
+Singapore economy and served as secretary to the Future Economy Council.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -188,10 +167,6 @@ Singapore economy and served as secretary to the Future Economy Council.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>About the Speaker</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p>Jane Lim is the Deputy Secretary (Trade and International Economic Relations)
 at the Ministry of Trade and Industry (MTI), Singapore. She is responsible
 for Singapore’s trade and external economic relations. This includes the
@@ -213,9 +188,6 @@ property policy development.&nbsp;&nbsp;</p>
 of Technology. She also holds a Masters in Political Science with MIT and
 majored in both Biological Sciences and Government at Cornell University.
 She is married with two daughters.&nbsp;</p>
-</div>
-</details>
-</div>
 </td>
 </tr>
 <tr>
@@ -279,16 +251,16 @@ Singapore Economic Development Board (EDB).&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Ai Hua is currently the Deputy Secretary (Family and Society) in
-the Ministry of Social and Family Development. Her portfolio includes early
-childhood, families, persons with disabilities and women’s development.</p>
+<p>Ms. Ong Ai Hua is currently the Deputy Secretary (Family and Society)
+in the Ministry of Social and Family Development. Her portfolio includes
+early childhood, families, persons with disabilities and women’s development.</p>
 <p>Prior to public service, Ai Hua had 30 years of service with Johnson &amp;
 Johnson (J&amp;J). She served as the Asia Pacific business leader for more
 than 2 decades in both Pharmaceuticals and MedTech segments of J&amp;J.
 Her last role before retirement from J&amp;J was head of Government Affairs
 and Policy for Pharmaceuticals, MedTech, and Consumer Health in Asia Pacific.&nbsp;</p>
 <p>Ai Hua was the Company Group Chair for the Pharmaceutical business of
-Johnson &amp; Johnson 2017-2020, and led a team of more than 7000 employees
+Johnson &amp; Johnson 2017-2020 and led a team of more than 7000 employees
 across Asia Pacific with responsibility for regionwide pharmaceutical operations,
 including in the key markets of Japan and China.&nbsp;</p>
 <p>She previously served as President of One J&amp;J Southeast Asia, where
@@ -302,7 +274,7 @@ in China.&nbsp;</p>
 globally. She worked closely with the APAC Regional Diversity, Equity &amp;
 Inclusion (DE&amp;I) Council to develop a strategy that connected DEI to
 innovation and business growth. Ai Hua is a strong advocate for women in
-leadership, she mentors young adults from local universities and the Young
+leadership; she mentors young adults from local universities and the Young
 Women’s Leadership Connection Mentorship Program. She co-founded a not-for-profit
 initiative Asia Mentor Circle to mentor next generation of healthcare leaders
 from the region. Ai Hua also served as Chair of Global Community Impact
