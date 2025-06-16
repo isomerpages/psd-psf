@@ -372,6 +372,51 @@ University of Oxford.</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>[Session 3] Workplace: Building an innovative culture &amp; digital capabilities to deal with a future of discontinuities and disruptions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Foo Siang-Tse</strong>
+<br>Senior Partner of Cyber, NCS Group</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_16_122126.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ng Chad-Son</strong>
+<br>Chief Executive, Defence Science and Technology Agency (DSTA)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_16_122126.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sim Feng-Ji</strong>
+<br>Deputy Secretary, Ministry of Digital Development and Information (MDDI)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_16_122126.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>TED-style talks Speakers</h3>
@@ -404,7 +449,7 @@ University of Oxford.</p>
 <br>
 <br><strong>[Session 3] Workplace: Building an innovative culture &amp; digital capabilities to deal with a future of discontinuities and disruptions</strong>
 </p>
-<p><strong>Foo Siang-tse</strong>
+<p><strong>Foo Siang-Tse</strong>
 <br>Senior Partner of Cyber, NCS Group</p>
 <p><strong>Ng Chad-Son</strong>
 <br>Chief Executive, Defence Science and Technology Agency (DSTA)</p>
