@@ -108,8 +108,7 @@ from 2018 to 2020. &nbsp;</p>
 serving on the Board of Commissioners of Telkomsel since 2009. In addition,
 Moon is a board member of the Defence Science and Technology Agency and
 the Singapore Institute of Management, besides being the Chairman of the
-Ngee Ann Polytechnic Council. </p>
-<p></p>
+Ngee Ann Polytechnic Council.</p>
 </td>
 </tr>
 </tbody>
@@ -311,17 +310,17 @@ Chian School of Business and board member of Communicable Disease Agency.&nbsp;<
 <p>Wong Kang Jet has been the Chief Executive Officer of the National Environment
 Agency in Singapore since April 2023. The National Environment Agency is
 the leading public organisation responsible for ensuring a clean and sustainable
-environment or Singapore. Its key roles are to promote sustainability and
-resource efficiency, create a safe, and conducive living environment, maintain
-high public health standards, and provide timely and reliable meteorological
-information.&nbsp;</p>
+environment for Singapore. Its key roles are to promote sustainability
+and resource efficiency, create a safe, and conducive living environment,
+maintain high public health standards, and provide timely and reliable
+meteorological information.&nbsp;</p>
 <p>Prior to his current appointment, Wong was Principal Private Secretary
 to the Deputy Prime Minister. Wong started his public service career at
 the Ministry of Finance. He has also worked in the Ministry of Defence,
 the Ministry of Education, and the Strategy Group of the Prime Minister’s
 Office.&nbsp;</p>
-<p>Wong graduated with a Master’s Degree in Engineering Science from the
-University of Oxford.</p>
+<p>Kang Jet graduated with a Master’s Degree in Engineering Science from
+the University of Oxford.</p>
 </td>
 </tr>
 </tbody>
@@ -348,18 +347,27 @@ University of Oxford.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Foo Siang-Tse leads the cybersecurity practice at NCS Group, driving growth
-and innovation across the region. He oversees both client-facing cybersecurity
-services and the company’s internal cyber resilience efforts. With a strong
-background in IT security and public service, Foo has held leadership roles
-including CEO of Quann Asia Pacific, one of Asia’s largest cybersecurity
-managed service providers, and Senior Director at Singapore’s Ministry
-of Home Affairs.&nbsp;</p>
-<p>Under his leadership, NCS drives innovative cybersecurity solutions and
-partnerships, emphasizing a collaborative ecosystem to address sophisticated
-cyber threats. Foo is also a key advocate for developing cybersecurity
-talent, supporting initiatives like the Skills Pathway for Cybersecurity
-to bridge industry demand.</p>
+<p>Foo Siang-tse is Senior Partner of Cyber for NCS Group, leading our cybersecurity
+business and driving its growth regionally. He is also responsible for
+internal cybersecurity functions across NCS Group.</p>
+<p>Siang-tse brings with him extensive experience in IT, security and operations
+from the public sector and in leading cybersecurity, strategy, and mergers
+&amp; acquisitions in the private sector. Prior to joining NCS, he was
+Managing Director, Head of Public Sector at Temus, a digital transformation
+platform jointly formed by Temasek and UST.</p>
+<p>Before that, Siang-tse held key leadership positions in Certis Group,
+Quann Asia Pacific, and in various Singapore government ministries. At
+the Certis Group, he was responsible for several corporate functions and
+was their Group Chief Information Security Officer concurrently. Prior
+to that, Siang-tse was the CEO of Quann Asia Pacific, one of Asia’s largest
+cybersecurity Managed Services Providers. He had also served in the Administrative
+Service of the Singapore Government, where his last appointment was Senior
+Director in the Ministry of Home Affairs. &nbsp;</p>
+<p>Siang-tse serves on the Board of Singapore LNG Corporation and the Ministry
+of Home Affairs’ Institutional Discipline Advisory Committee. He is also
+a member of the Young Presidents’ Organisation. Siang-tse graduated from
+the University of Cambridge, with graduate degrees from Stanford University
+and Stanford University’s Graduate School of Business.&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -379,10 +387,10 @@ where he oversaw technology roadmapping, industry development and defence
 R&amp;D investments.  He was also Director of Military Intelligence and
 Chief of Command, Control, Communications, Computer and Intelligence (C4I)
 in the Singapore Armed Forces, where he played a pivotal role in the formation
-of the SAF’s Digital and Intelligence Service. During Ng’s years of service
-in defence technology and public sector leadership, he has driven transformation
-efforts to make Singapore’s defence technology community more agile, innovative,
-and future-ready.</p>
+of the SAF’s Digital and Intelligence Service. During Chad-Son’s years
+of service in defence technology and public sector leadership, he has driven
+transformation efforts to make Singapore’s defence technology community
+more agile, innovative, and future-ready.</p>
 <p>He also contributed to Small and Medium Enterprise development and national
 R&amp;D development as Director of Research and Enterprise Division at
 the Ministry of Trade and Industry.</p>
@@ -403,14 +411,13 @@ at the Ministry of Digital Development and Information (MDDI), where he
 leads Singapore’s digital transformation efforts to build a resilient and
 innovative public sector. He focuses on enhancing digital government services,
 urban living, transport, and business operations to prepare Singapore for
-future disruptions and technological discontinuities. Additionally, Sim
+future disruptions and technological discontinuities. Additionally, Feng-Ji
 currently serves on the board of Enterprise Singapore.&nbsp;&nbsp;</p>
-<p>Before his present role, Sim Feng-ji was Divisional Director of the Income
+<p>Before his present role, Feng-Ji was Divisional Director of the Income
 Security Policy Division at the Ministry of Manpower, overseeing policies
 related to the Central Provident Fund (CPF), income security, and financial
 planning. He also served on the board of the Intellectual Property Office
 of Singapore for six years.&nbsp;&nbsp;</p>
-<p></p>
 </td>
 </tr>
 </tbody>
