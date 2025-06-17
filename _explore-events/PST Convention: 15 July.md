@@ -233,7 +233,7 @@ Land Authority and the Institute for Human Resource Professionals.</p>
 <br>Global Healthcare Practice Co-Leader / Egon Zehnder</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kevin_Lai.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
