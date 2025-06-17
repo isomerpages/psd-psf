@@ -67,15 +67,15 @@ sector leaders</p>
 <p>Arundhati Bhattacharya is the Chairperson and CEO of Salesforce India
 and South Asia, leading the company's strategic growth and digital transformation
 initiatives across the region. Under her leadership, Salesforce India has
-been instrumental in helping organizations reinvent their business models,
+been instrumental in helping organisations reinvent their business models,
 future-proof their workforce, and navigate technological disruptions.</p>
 <p>Prior to joining Salesforce in 2020, Bhattacharya served as the first
 woman Chairperson of the State Bank of India (SBI), where she spearheaded
-the bank's digital transformation and led significant organizational changes.&nbsp;</p>
-<p>At Salesforce, Bhattacharya has focused on fostering a unified organizational
+the bank's digital transformation and led significant organisational changes.&nbsp;</p>
+<p>At Salesforce, Bhattacharya has focused on fostering a unified organisational
 culture and driving innovation through the company's core values: Trust,
-Customer Success, Innovation, Equality, and Sustainability . She has been
-a vocal advocate for lifelong learning and workforce agility, emphasizing
+Customer Success, Innovation, Equality, and Sustainability. She has been
+a vocal advocate for lifelong learning and workforce agility, emphasising
 the importance of continuous skill development in the face of rapid technological
 advancements.&nbsp;</p>
 </td>
@@ -146,12 +146,12 @@ he drives SBF’s efforts to advance the interests of Singapore businesses
 by shaping policies both locally and internationally.&nbsp;</p>
 <p>Musa is instrumental in SBF’s efforts in advocating for policies that
 support business transformation and international economic engagement.
-The organization has launched initiatives to promote sustainability, digitalisation,
+The organisation has launched initiatives to promote sustainability, digitalisation,
 and talent development among businesses. Additionally, SBF has facilitated
 international collaborations and partnerships to enhance the global competitiveness
 of Singaporean enterprises.&nbsp;</p>
 <p>Prior to joining SBF in November 2023, Musa spent over 17 years in the
-Singapore Public Service, holding various leadership positions in organizations
+Singapore Public Service, holding various leadership positions in organisations
 such as the Monetary Authority of Singapore, Ministry of Finance, Ministry
 of Manpower, and Ministry of Trade and Industry. Notably, he served as
 Senior Director of the Futures, Strategy and Plans Division at the Ministry
@@ -206,7 +206,8 @@ and retirement adequacy.&nbsp;&nbsp;</p>
 <p>Kenny’s work in MOM involves collaborating with tripartite partners to
 implement active labour market programmes and foreign workforce policies
 that support economic and workforce transformation, creating good jobs
-for Singaporeans.&nbsp;</p>
+for Singaporeans.&nbsp;Through the Central Provident Fund Board, MOM also
+implements the national social security savings scheme.</p>
 <p>Prior to his current role, Kenny held various positions in the Ministry
 of Home Affairs, Ministry of Finance, and the Singapore Police Force. He
 currently serves on the boards of the Central Provident Fund Board, Singapore
