@@ -356,7 +356,7 @@ including CEO of Quann Asia Pacific, one of Asia’s largest cybersecurity
 managed service providers, and Senior Director at Singapore’s Ministry
 of Home Affairs.&nbsp;</p>
 <p>Under his leadership, NCS drives innovative cybersecurity solutions and
-partnerships, emphasizing a collaborative ecosystem to address sophisticated
+partnerships, emphasising a collaborative ecosystem to address sophisticated
 cyber threats. Foo is also a key advocate for developing cybersecurity
 talent, supporting initiatives like the Skills Pathway for Cybersecurity
 to bridge industry demand.</p>
@@ -415,4 +415,9 @@ of Singapore for six years.&nbsp;&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
 <p></p>
