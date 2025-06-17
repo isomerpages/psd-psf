@@ -314,9 +314,9 @@ environment for Singapore. Its key roles are to promote sustainability
 and resource efficiency, create a safe, and conducive living environment,
 maintain high public health standards, and provide timely and reliable
 meteorological information.&nbsp;</p>
-<p>Prior to his current appointment, Wong was Principal Private Secretary
-to the Deputy Prime Minister. Wong started his public service career at
-the Ministry of Finance. He has also worked in the Ministry of Defence,
+<p>Prior to his current appointment, Kang Jet was Principal Private Secretary
+to the Deputy Prime Minister. Kang Jet started his public service career
+at the Ministry of Finance. He has also worked in the Ministry of Defence,
 the Ministry of Education, and the Strategy Group of the Prime Minister’s
 Office.&nbsp;</p>
 <p>Kang Jet graduated with a Master’s Degree in Engineering Science from
