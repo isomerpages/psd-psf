@@ -143,19 +143,20 @@ Ngee Ann Polytechnic Council.</p>
 (SBF), where he leads the Advocacy and Planning Division. In this role,
 he drives SBF’s efforts to advance the interests of Singapore businesses
 by shaping policies both locally and internationally.&nbsp;</p>
-<p>Musa is instrumental in SBF’s efforts in advocating for policies that
-support business transformation and international economic engagement.
-The organisation has launched initiatives to promote sustainability, digitalisation,
-and talent development among businesses. Additionally, SBF has facilitated
-international collaborations and partnerships to enhance the global competitiveness
-of Singaporean enterprises.&nbsp;</p>
+<p>Musa is responsible for SBF’s overall advocacy efforts by working closely
+with businesses, trade associations, foreign chambers and government agencies.
+In addition to managing policy development, Musa oversees corporate planning
+for the Secretariat, international policy and engagement, as well as the
+ESG Co-ordination Office.&nbsp;</p>
 <p>Prior to joining SBF in November 2023, Musa spent over 17 years in the
 Singapore Public Service, holding various leadership positions in organisations
-such as the Monetary Authority of Singapore, Ministry of Finance, Ministry
-of Manpower, and Ministry of Trade and Industry. Notably, he served as
-Senior Director of the Futures, Strategy and Plans Division at the Ministry
-of Trade and Industry, where he drove strategic planning efforts for the
-Singapore economy and served as secretary to the Future Economy Council.&nbsp;</p>
+such as the Monetary Authority of Singapore, Ministry of Finance and Ministry
+of Manpower. Notably, he served as Senior Director of the Futures, Strategy
+and Plans Division at the Ministry of Trade and Industry, where he drove
+strategic planning efforts for the Singapore economy and took on various
+roles including serving as secretary to the Future Economy Council, being
+a member of the National Wage Council from 2021 to 2023 and leading MTI’s
+efforts under the Forward Singapore exercise.</p>
 </td>
 </tr>
 <tr>
