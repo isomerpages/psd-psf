@@ -40,9 +40,8 @@ on the 3Ws: Work, Workforce, Workplace</p>
 sector leaders</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -58,10 +57,10 @@ sector leaders</p>
 <td rowspan="1" colspan="1">
 <p><strong>Arundhati Bhattacharya</strong>
 <br>President &amp; CEO, Salesforce - South Asia</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_16_151226.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Arundhati Bhattacharya is the Chairperson and CEO of Salesforce India
@@ -84,7 +83,6 @@ advancements.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>Yuen Kuan Moon </strong>
 <br>Group CEO, Singtel</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yuen_Kuan_Moon.png">
 </div>
@@ -113,6 +111,9 @@ Ngee Ann Polytechnic Council.</p>
 </tr>
 </tbody>
 </table>
+<p>
+<br>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -137,6 +138,7 @@ Ngee Ann Polytechnic Council.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___SBF_Chief_Policy_Officer_Musa_Fazal.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Musa Fazal is the Chief Policy Officer at the Singapore Business Federation
@@ -188,7 +190,7 @@ property policy development.&nbsp;&nbsp;</p>
 <p>Jane has an MBA from the Sloan Fellows Program in the Massachusetts Institute
 of Technology. She also holds a Masters in Political Science with MIT and
 majored in both Biological Sciences and Government at Cornell University.
-She is married with two daughters.&nbsp;</p>
+She is married with two daughters.</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +202,6 @@ She is married with two daughters.&nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Kenny Tan is the Deputy Secretary (Workforce) at the Ministry of Manpower
 (MOM). His mission is to empower Singaporeans in achieving career progression
 and retirement adequacy.&nbsp;&nbsp;</p>
@@ -217,6 +218,8 @@ Land Authority and the Institute for Human Resource Professionals.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -327,6 +330,8 @@ the University of Oxford.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
