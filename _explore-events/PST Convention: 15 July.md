@@ -196,10 +196,11 @@ She is married with two daughters.&nbsp;</p>
 <p><strong>Kenny Tan</strong>
 <br>Deputy Secretary, Ministry of Manpower (MOM)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___MOM_DS_Kenny_Tan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kenny_new.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Kenny Tan is the Deputy Secretary (Workforce) at the Ministry of Manpower
 (MOM). His mission is to empower Singaporeans in achieving career progression
 and retirement adequacy.&nbsp;&nbsp;</p>
