@@ -40,9 +40,8 @@ on the 3Ws: Work, Workforce, Workplace</p>
 sector leaders</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -58,10 +57,10 @@ sector leaders</p>
 <td rowspan="1" colspan="1">
 <p><strong>Arundhati Bhattacharya</strong>
 <br>President &amp; CEO, Salesforce - South Asia</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_06_16_151226.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Arundhati Bhattacharya is the Chairperson and CEO of Salesforce India
@@ -84,7 +83,6 @@ advancements.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>Yuen Kuan Moon </strong>
 <br>Group CEO, Singtel</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yuen_Kuan_Moon.png">
 </div>
@@ -113,6 +111,9 @@ Ngee Ann Polytechnic Council.</p>
 </tr>
 </tbody>
 </table>
+<p>
+<br>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -137,25 +138,27 @@ Ngee Ann Polytechnic Council.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___SBF_Chief_Policy_Officer_Musa_Fazal.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Musa Fazal is the Chief Policy Officer at the Singapore Business Federation
 (SBF), where he leads the Advocacy and Planning Division. In this role,
 he drives SBF’s efforts to advance the interests of Singapore businesses
 by shaping policies both locally and internationally.&nbsp;</p>
-<p>Musa is instrumental in SBF’s efforts in advocating for policies that
-support business transformation and international economic engagement.
-The organisation has launched initiatives to promote sustainability, digitalisation,
-and talent development among businesses. Additionally, SBF has facilitated
-international collaborations and partnerships to enhance the global competitiveness
-of Singaporean enterprises.&nbsp;</p>
+<p>Musa is responsible for SBF’s overall advocacy efforts by working closely
+with businesses, trade associations, foreign chambers and government agencies.
+In addition to managing policy development, Musa oversees corporate planning
+for the Secretariat, international policy and engagement, as well as the
+ESG Co-ordination Office.&nbsp;</p>
 <p>Prior to joining SBF in November 2023, Musa spent over 17 years in the
 Singapore Public Service, holding various leadership positions in organisations
-such as the Monetary Authority of Singapore, Ministry of Finance, Ministry
-of Manpower, and Ministry of Trade and Industry. Notably, he served as
-Senior Director of the Futures, Strategy and Plans Division at the Ministry
-of Trade and Industry, where he drove strategic planning efforts for the
-Singapore economy and served as secretary to the Future Economy Council.&nbsp;</p>
+such as the Monetary Authority of Singapore, Ministry of Finance and Ministry
+of Manpower. Notably, he served as Senior Director of the Futures, Strategy
+and Plans Division at the Ministry of Trade and Industry, where he drove
+strategic planning efforts for the Singapore economy and took on various
+roles including serving as secretary to the Future Economy Council, being
+a member of the National Wage Council from 2021 to 2023 and leading MTI’s
+efforts under the Forward Singapore exercise.</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +190,7 @@ property policy development.&nbsp;&nbsp;</p>
 <p>Jane has an MBA from the Sloan Fellows Program in the Massachusetts Institute
 of Technology. She also holds a Masters in Political Science with MIT and
 majored in both Biological Sciences and Government at Cornell University.
-She is married with two daughters.&nbsp;</p>
+She is married with two daughters.</p>
 </td>
 </tr>
 <tr>
@@ -195,7 +198,7 @@ She is married with two daughters.&nbsp;</p>
 <p><strong>Kenny Tan</strong>
 <br>Deputy Secretary, Ministry of Manpower (MOM)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo___MOM_DS_Kenny_Tan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Kenny_new.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,6 +218,9 @@ Land Authority and the Institute for Human Resource Professionals.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -325,6 +331,9 @@ the University of Oxford.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
