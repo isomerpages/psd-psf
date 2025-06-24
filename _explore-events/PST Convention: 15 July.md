@@ -36,7 +36,7 @@ on the 3Ws: Work, Workforce, Workplace</p>
 </ul>
 </li>
 <li>
-<p>Breakout sessions for deeper dialogue on the 3Ws with public and private
+<p>Breakout sessions for deeper dialogue on thes3Ws with public and private
 sector leaders</p>
 </li>
 </ul>
