@@ -130,22 +130,119 @@ CSC Loyang : <a href="mailto:loyang@csc.sg" rel="noopener noreferrer nofollow" t
 check-in, otherwise full rate will be charged.</p>
 <p>5. Not applicable with other promotions.</p>
 <p></p>
-<h3>Public officers enjoy CSC Members’ rate for all chalet booking</h3>
+<p>_____________________________________________________________________________________________________</p>
+<h3><strong>Merchant Deals and Offer</strong></h3>
+<h3>FoodLine</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Changi Chalet" src="/images/IMG_2125.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Foodline promo" src="/images/Promos.jpg">
+</div>
+<p><strong>Public Officers</strong>
+</p>
+<p>25% off min spend $60 (Capped at $15) for all orders</p>
+<p>Code: PSF25JY</p>
+<p>Valid from 1 July 2025 - 31 July 2025 foodline</p>
+<p>View T&amp;C <a href="https://www.foodline.sg/Discover/Civil-Service-Club-(Public-Service-Officers)-x-FL-Public-Service-Festival-Promo-Code-TNCs/" rel="noopener nofollow" target="_blank">here</a>
+</p>
+<p></p>
+<h3>HomeTeamNS Reciprocal Promotion</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HomeTeamNS___Public_Service_Festival.jpg">
 </div>
 <p></p>
-<p>1. Valid for bookings between 1 to 31 July 2025, for stays till 31 November
-2025.</p>
-<p>2. Write to the following emails to inquire for respective chalets - CSC
-Changi I : <a href="mailto:rooms@csc.sg" rel="noopener noreferrer nofollow" target="_blank">rooms@csc.sg</a> /
-CSC Changi II : <a href="mailto:changi2@csc.sg" rel="noopener noreferrer nofollow" target="_blank">changi2@csc.sg </a>/
-CSC Loyang : <a href="mailto:loyang@csc.sg" rel="noopener noreferrer nofollow" target="_blank">loyang@csc.sg</a>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>PLAY Destination</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Public Officers discount promo</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Adventure HQ – Single Pass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10% off</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aqua Adventure – Single Pass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10% off</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Action Motion – Single Pass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10% off</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Laser Quest – 3 Missions Only</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10% off</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PlayPen – Single Player</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10% off</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T-Play – Membership sign-up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Entitled to 1 FREE Play Pass per membership sign-up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>T&amp;C</p>
+<p>1. Validity of offer is from 1 – 31 July 2025 only.</p>
+<p>2. Booking of sessions should be made via HomeTeamNS mobile app or website
+only.</p>
+<p>3. Promocodes are limited to a one time redemption per transaction, user
+&amp; facility.</p>
+<p>4. Proof of public officer status (staff card) or CSC member status (physical
+or digital card) to be produced at counter. User will have to pay the regular
+pricing if failure to produce proof of status of either being a public
+officer or CSC member.</p>
+<p>5. This offer is not valid with any other offers.</p>
+<p></p>
+<p>More information <a href="https://urlsand.esvalabs.com/?u=https%3A%2F%2Fbit.ly%2F45Hs2J9&amp;e=d16cce0e&amp;h=ec72f1c9&amp;f=y&amp;p=y" rel="noopener nofollow" target="_blank">here</a>
 </p>
-<p>3. Rates on <a href="http://www.cscchalets.sg" rel="noopener noreferrer nofollow" target="_blank">www.cscchalets.sg</a> will
-reflect the members’ rate between 1 to 31 July 2025.</p>
-<p>4. Proof of public agency or statutory board employment is required at
-check-in, otherwise full rate will be charged.</p>
-<p>5. Not applicable with other promotions.</p>
+<p></p>
+<p>_____________________________________________________________________________________________________</p>
+<p></p>
+<h3><strong>Membership Promotion</strong></h3>
+<h3>Coming soon!</h3>
+<h3></h3>
+<p></p>
 <p></p>
