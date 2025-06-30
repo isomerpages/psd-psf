@@ -132,16 +132,65 @@ check-in, otherwise full rate will be charged.</p>
 <p></p>
 <p>_____________________________________________________________________________________________________</p>
 <h3><strong>Merchant Deals and Offer</strong></h3>
-<h3>FoodLine</h3>
+<h3>Crystal Jade</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Foodline promo" src="/images/Promos.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Crystal Jade promotion" src="/images/CJxCSC_1100x736px.jpg">
 </div>
 <p><strong>Public Officers</strong>
 </p>
-<p>25% off min spend $60 (Capped at $15) for all orders</p>
-<p>Code: PSF25JY</p>
-<p>Valid from 1 July 2025 - 31 July 2025 foodline</p>
+<p>Free 1-year Jadeite membership with additional welcome bonuses!&nbsp;</p>
+<p>
+<br>Visit <a href="https://crystaljade.com/membership/comp" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+sign up and apply the Promo Code [CJ25CP] to receive the following e-Vouchers:
+<br>• 15% off dining bill at any participating restaurants
+<br>• Complimentary appetiser at Crystal Jade Hong Kong Kitchen (worth $8.80)
+<br>• Complimentary appetiser at Crystal Jade La Mian Xiao Long Bao (worth
+$9.90)
+<br>• $1.99 Baked Egg Tart (3pcs) at Crystal Jade Hong Kong Kitchen
+<br>• $1.99 Classic Shanghai Xiao Long Bao (6pcs) at Crystal Jade La Mian
+Xiao Long Bao</p>
+<p>&nbsp;</p>
+<p>Promo code is valid from 1 July – 31 August 2025.&nbsp;
+<br>Membership Sign Up is only valid for new members who have not previously
+created a membership account at Crystal Jade.
+<br>Participating outlets: All Crystal Jade restaurants except Crystal Jade
+Hong Kong Kitchen (Tampines 1), La Mian Xiao Long Bao (Changi Airport Terminal
+1) and Crystal Jade GO.&nbsp;
+<br>Full voucher T&amp;Cs can be viewed via the Crystal Jade SG Mobile App
+under “VOUCHER”.
+<br>Crystal Jade reserves the right to amend the terms &amp; conditions without
+prior notice.</p>
+<p></p>
+<h3>Disney Adventure (Luxury Tours)</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Disney Adventure Cruise" src="/images/Disney_Adventure.png">
+</div>
+<p><strong>Public Officers</strong>
+</p>
+<p>Enjoy additional discounts and receive 2 complimentary tickets to Madame
+Tussauds or Bird Paradise! (valid for 1st 100 bookings).
+<br>Email <a href="mailto:LTT-DCGroup@luxury.com.sg" rel="noopener noreferrer nofollow" target="_blank">LTT-DCGroup@luxury.com.sg</a> with
+the code &lt;CSC25&gt; to secure a room</p>
+<p>Sailing dates: Apr – Sep 2026
+<br>Booking period: From now – 31 Jul 2026</p>
+<p>Additional information:</p>
+<p>Fares exclude port charges at $46.95 per person
+<br>Discount is not applicable for taxes, fees &amp; port expenses
+<br>Higher category cabins available on request
+<br>Dynamic pricing applies &amp; subject to availability</p>
+<p></p>
+<h3>FoodLine</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="FoodLine Pormotion" src="/images/PSO.jpg">
+</div>
+<p><strong>Public Officers</strong>
+</p>
+<p>20% off min spend $60 (Capped at $15) for all orders</p>
+<p>Code: PSF20JY</p>
+<p>Valid from 1 July 2025 - 31 July 2025</p>
 <p>View T&amp;C <a href="https://www.foodline.sg/Discover/Civil-Service-Club-(Public-Service-Officers)-x-FL-Public-Service-Festival-Promo-Code-TNCs/" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p></p>
@@ -239,6 +288,22 @@ officer or CSC member.</p>
 <p>More information <a href="https://urlsand.esvalabs.com/?u=https%3A%2F%2Fbit.ly%2F45Hs2J9&amp;e=d16cce0e&amp;h=ec72f1c9&amp;f=y&amp;p=y" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p></p>
+<h3>Tang Tea House</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tang Teahouse" src="/images/Dim_Sum.jpg">
+</div>
+<p><strong>Public Officers</strong>
+</p>
+<p>10% OFF total bill across all outlets.</p>
+<p>Present a valid public officer staff pass to enjoy the promotion.
+<br>Promo code is valid from 1 – 31 July 2025.&nbsp;</p>
+<p>Promotion is valid for dining and takeaway.
+<br>Promotion cannot be used in conjunction with other promotions or discounts.
+<br>Promotion is not applicable to Set Menu items.
+<br>Tang Tea House reserves the right to change the terms and conditions without
+prior notice.</p>
+<h3></h3>
 <p>_____________________________________________________________________________________________________</p>
 <p></p>
 <h3><strong>Membership Promotion</strong></h3>
