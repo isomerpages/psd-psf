@@ -184,12 +184,12 @@ the code &lt;CSC25&gt; to secure a room</p>
 <h3>FoodLine</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Foodline promo" src="/images/Promos.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="FoodLine Pormotion" src="/images/PSO.jpg">
 </div>
 <p><strong>Public Officers</strong>
 </p>
-<p>25% off min spend $60 (Capped at $15) for all orders</p>
-<p>Code: PSF25JY</p>
+<p>20% off min spend $60 (Capped at $15) for all orders</p>
+<p>Code: PSF20JY</p>
 <p>Valid from 1 July 2025 - 31 July 2025</p>
 <p>View T&amp;C <a href="https://www.foodline.sg/Discover/Civil-Service-Club-(Public-Service-Officers)-x-FL-Public-Service-Festival-Promo-Code-TNCs/" rel="noopener nofollow" target="_blank">here</a>
 </p>
