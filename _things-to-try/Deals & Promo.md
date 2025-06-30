@@ -303,7 +303,6 @@ officer or CSC member.</p>
 <br>Promotion is not applicable to Set Menu items.
 <br>Tang Tea House reserves the right to change the terms and conditions without
 prior notice.</p>
-<p></p>
 <h3></h3>
 <p>_____________________________________________________________________________________________________</p>
 <p></p>
