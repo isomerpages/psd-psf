@@ -20,7 +20,7 @@ guest rates at the pool counter.</p>
 <p>4. Subject to pool capacity during walk-in.</p>
 <p></p>
 <p></p>
-<p>_____________________________________________________________________________________________________</p>
+<p>__________________________________________________</p>
 <p></p>
 <h3><strong>Weekend Family Fun Pool @ Tessensohn</strong></h3>
 <h3>Public officers enjoy FREE access to Weekend Family Fun Pool on 20 July 2025, Sunday</h3>
@@ -56,7 +56,7 @@ payable at the pool counter.</p>
 in more than 3 family members or guests. This will be subjected to capacity
 limit. A confirmation response will be provided once the request is approved.</p>
 <p></p>
-<p>______________________________________________________________________________________________________</p>
+<p>__________________________________________________</p>
 <h3><strong>Bowling fun at Planet Bowl and Westwood Bowl</strong></h3>
 <h3>Public officers enjoy CSC members’ rate at Planet Bowl and Westwood Bowl</h3>
 <p></p>
@@ -71,7 +71,7 @@ or agency staff pass at the bowling counter to enjoy CSC members’ rate.</p>
 confirm any booking of lanes.</p>
 <p>4. Not applicable with other promotions.</p>
 <p></p>
-<p>____________________________________________________________________________________________________</p>
+<p>__________________________________________________</p>
 <h3><strong>Treehouse @ Bukit Batok</strong></h3>
 <h3>Public officers/ CSC members enjoy 10% OFF Treehouse booking at CSC @ Bukit Batok</h3>
 <p></p>
@@ -89,7 +89,7 @@ enquire.</p>
 <p>5. Promotion applies on public officer/ CSC members rates accordingly.</p>
 <p>6. Not applicable with other promotions.</p>
 <p></p>
-<p>_________________________________________________________________________________________________</p>
+<p>__________________________________________________</p>
 <h3><strong>BBQ Pavilion @ Changi</strong></h3>
 <h3>Public officers/ CSC members enjoy 10% OFF BBQ Pavilion booking at CSC @ Changi</h3>
 <p></p>
@@ -109,7 +109,7 @@ enquire.</p>
 <p>5. Promotion applies on public officer/ CSC members rates accordingly.</p>
 <p>6. Not applicable with other promotions.</p>
 <p></p>
-<p>_____________________________________________________________________________________________________</p>
+<p>__________________________________________________</p>
 <h3><strong>Civil Service Club Chalets</strong></h3>
 <h3>Public officers enjoy 30% OFF for first time booking for CSC @ Changi chalets</h3>
 <p></p>
@@ -130,7 +130,7 @@ CSC Loyang : <a href="mailto:loyang@csc.sg" rel="noopener noreferrer nofollow" t
 check-in, otherwise full rate will be charged.</p>
 <p>5. Not applicable with other promotions.</p>
 <p></p>
-<p>_____________________________________________________________________________________________________</p>
+<p>__________________________________________________</p>
 <h3><strong>Merchant Deals and Offer</strong></h3>
 <h3>Canopy Changi Village</h3>
 <p></p>
@@ -330,7 +330,7 @@ prior notice.</p>
 <p>Thirsty Neko reserves the right to amend the terms &amp; conditions without
 prior notice.</p>
 <p></p>
-<p>_____________________________________________________________________________________________________</p>
+<p>__________________________________________________</p>
 <p></p>
 <h3><strong>Membership Promotion</strong></h3>
 <h3>Coming soon!</h3>
