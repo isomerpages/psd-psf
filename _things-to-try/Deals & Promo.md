@@ -132,6 +132,18 @@ check-in, otherwise full rate will be charged.</p>
 <p></p>
 <p>_____________________________________________________________________________________________________</p>
 <h3><strong>Merchant Deals and Offer</strong></h3>
+<h3>Canopy Changi Village</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Canopy Changi Village" src="/images/Fish_n_Chip_feature_2.jpg">
+</div>
+<p><strong>Public Officers</strong>
+</p>
+<p>Complimentary Truffle Fries with a min. spend of $50</p>
+<p>&nbsp;</p>
+<p>Promotion is valid from 1 – 31 July 2025.&nbsp;
+<br>
+</p>
 <h3>Crystal Jade</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -151,7 +163,7 @@ $9.90)
 <br>• $1.99 Classic Shanghai Xiao Long Bao (6pcs) at Crystal Jade La Mian
 Xiao Long Bao</p>
 <p>&nbsp;</p>
-<p>Promo code is valid from 1 July – 31 August 2025.&nbsp;
+<p>Promotion is valid from 1 July – 31 August 2025.&nbsp;
 <br>Membership Sign Up is only valid for new members who have not previously
 created a membership account at Crystal Jade.
 <br>Participating outlets: All Crystal Jade restaurants except Crystal Jade
@@ -190,7 +202,7 @@ the code &lt;CSC25&gt; to secure a room</p>
 </p>
 <p>20% off min spend $60 (Capped at $15) for all orders</p>
 <p>Code: PSF20JY</p>
-<p>Valid from 1 July 2025 - 31 July 2025</p>
+<p>Promo code is valid from 1 - 31 July 2025</p>
 <p>View T&amp;C <a href="https://www.foodline.sg/Discover/Civil-Service-Club-(Public-Service-Officers)-x-FL-Public-Service-Festival-Promo-Code-TNCs/" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p></p>
@@ -297,13 +309,27 @@ officer or CSC member.</p>
 </p>
 <p>10% OFF total bill across all outlets.</p>
 <p>Present a valid public officer staff pass to enjoy the promotion.
-<br>Promo code is valid from 1 – 31 July 2025.&nbsp;</p>
+<br>Promotion is valid from 1 – 31 July 2025.&nbsp;</p>
 <p>Promotion is valid for dining and takeaway.
 <br>Promotion cannot be used in conjunction with other promotions or discounts.
 <br>Promotion is not applicable to Set Menu items.
 <br>Tang Tea House reserves the right to change the terms and conditions without
 prior notice.</p>
-<h3></h3>
+<h3>Thirsty Neko</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Thirst Neko" src="/images/DIL_9889.jpg">
+</div>
+<p><strong>Public Officers</strong>
+</p>
+<p>Buy 3 lunch sets, get 1 FREE</p>
+<p></p>
+<p>Promotion is valid from 1 – 31 July 2025.&nbsp;</p>
+<p>Valid for staff with ID shown upon order.</p>
+<p>Promotion cannot be used in conjunction with other promotions or discounts.</p>
+<p>Thirsty Neko reserves the right to amend the terms &amp; conditions without
+prior notice.</p>
+<p></p>
 <p>_____________________________________________________________________________________________________</p>
 <p></p>
 <h3><strong>Membership Promotion</strong></h3>
