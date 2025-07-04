@@ -122,7 +122,7 @@ enquire.</p>
 <p>2. Public officers are to use promo code “NEWPO’ on <a href="http://www.cscchalets.sg" rel="noopener noreferrer nofollow" target="_blank">www.cscchalets.sg</a>
 </p>
 <p>3. Write to the following emails to inquire for respective chalets - CSC
-Changi I : <a href="mailto:rooms@csc.sg" rel="noopener noreferrer nofollow" target="_blank">rooms@csc.sg</a> 
+Changi I : <a href="mailto:rooms@csc.sg" rel="noopener noreferrer nofollow" target="_blank">rooms@csc.sg</a>
 </p>
 <p>4. Proof of public agency or statutory board employment is required at
 check-in, otherwise full rate will be charged.</p>
@@ -158,7 +158,14 @@ check-in, otherwise full rate will be charged.</p>
 </p>
 <p>Complimentary Truffle Fries with a min. spend of $50</p>
 <p>&nbsp;</p>
-<p>Promotion is valid from 1 – 31 July 2025.&nbsp;
+<p>Promotion is valid from 1 – 31 July 2025.&nbsp;</p>
+<p>• Present a valid public officer staff pass or CSC membership card to
+enjoy the promotion.</p>
+<p>• Promotion is valid for dining-in only.</p>
+<p>• Promotion cannot be used in conjunction with other promotions or discounts.</p>
+<p>• Canopy reserves the right to amend the terms &amp; conditions without
+prior notice.</p>
+<p>
 <br>
 </p>
 <h3>Crystal Jade</h3>
