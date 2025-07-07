@@ -17,8 +17,8 @@ our transformation journey—past, present, and future.</p>
 </p>
 <ul>
 <li>
-<p><strong>Celebrate Our Shared Journey:</strong> Explore stories of transformation
-from past decades</p>
+<p><strong>Celebrate Our Shared Journey:</strong>  <a href="https://psdchallenge.psd.gov.sg/ideas/smarter-homes--safer-workplaces--fighting-scams--how-the-public-service-innovates-for-a-better-singapore/" rel="noopener nofollow" target="_blank">Explore stories of transformation from past decades</a>
+</p>
 </li>
 <li>
 <p><strong>Connect With Our Present:</strong> Learn how agencies are enhancing
