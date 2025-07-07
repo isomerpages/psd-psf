@@ -39,7 +39,7 @@ sections:
         Singapore better. Join us to celebrate the Past, Present and Future of
         the Public Service!
       alt: Image alt text
-      image: /images/PSF_logo.png
+      image: /images/PSFSG602.png
       url: https://go.gov.sg/psf2025-signup
       button: REGISTER NOW
   - announcements:
