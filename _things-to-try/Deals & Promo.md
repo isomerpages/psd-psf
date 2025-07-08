@@ -7,7 +7,8 @@ description: ""
 <h3><strong>CIVIL SERVICE CLUB</strong></h3>
 <h3><strong>Membership Promotion</strong></h3>
 <h3>Public officers enjoy 2-year Ordinary Term Membership at a special price of $60 (U.P. $144). Use discount code "SG60".</h3>
-<p></p>
+<p>Sign Up <a href="https://www.csc.sg/Promotion/New-Promotion/SG60-MEMBERSHIP-PROMOTION" rel="noopener nofollow" target="_blank">HERE</a>
+</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
