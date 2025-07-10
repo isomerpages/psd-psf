@@ -5,6 +5,40 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>CIVIL SERVICE CLUB</strong></h3>
+<h3><strong>Membership Promotion</strong></h3>
+<h3>Public officers enjoy 2-year Ordinary Term Membership at a special price of $60 (U.P. $144). Use discount code "SG60".</h3>
+<p>Sign Up <a href="https://www.csc.sg/Promotion/New-Promotion/SG60-MEMBERSHIP-PROMOTION" rel="noopener nofollow" target="_blank">HERE</a>
+</p>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Promotion is applicable for new and renewal of 1-Year Ordinary Term Membership
+between 1 Jul to 31 Dec 2025.</p>
+</li>
+<li>
+<p>Promotion is only applicable to active public officers. Applicants will
+need to submit their staff pass for verification.</p>
+</li>
+<li>
+<p>Valid for both walk-in and online applications. For online applications,
+enter the discount code “SG60” on the payment page to enjoy the discount.</p>
+</li>
+<li>
+<p>The $10 e-credits for use of facilities, social activities, chalets &amp;
+bowling (except tenanted facilities) will be valid for 1 year from the
+date of issue.</p>
+</li>
+<li>
+<p>Not valid in conjunction with other membership promotions and discounts.</p>
+</li>
+<li>
+<p>Civil Service Club reserves the right to change or amend the terms &amp;
+conditions of the promotion at any time without prior notice.</p>
+</li>
+</ol>
+<p></p>
+<p>__________________________________________________</p>
+<p></p>
 <h3><strong>Swimming Pool Access</strong></h3>
 <h3>Public officers enjoy FREE weekday access to any Civil Service Club swimming pools</h3>
 <p></p>
@@ -357,7 +391,7 @@ prior notice.</p>
 <p>__________________________________________________</p>
 <p></p>
 <h3><strong>Membership Promotion</strong></h3>
-<h3>Coming soon!</h3>
+<h3></h3>
 <h3></h3>
 <p></p>
 <p></p>
