@@ -358,6 +358,29 @@ officer or CSC member.</p>
 <p>More information <a href="https://urlsand.esvalabs.com/?u=https%3A%2F%2Fbit.ly%2F45Hs2J9&amp;e=d16cce0e&amp;h=ec72f1c9&amp;f=y&amp;p=y" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p></p>
+<h3>Dream Cruises</h3>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dream Cruises" src="/images/CSC_PS_Sports___Family_Day__940_x_738.png">
+</div>
+<p><strong>Public Officers</strong>
+</p>
+<p>In celebrating Public Service Festival, here's a special promotion for
+public officers!&nbsp;</p>
+<p>Promotion Period: 26 July – 31 August 2025</p>
+<p>Vessel: Genting Dream</p>
+<p>Sailing Period: Up to 12 April 2026</p>
+<p>&nbsp;</p>
+<p>Details:</p>
+<p>Book Balcony Stateroom and above entitles to additional discounts as follows:
+<br>2 Nights Cruise - $40 off per cabin
+<br>3 Nights Cruises - $60 off per cabin</p>
+<p><em>*Stackable with 10% (Public officer) / 15% (CSC member) discount</em>
+</p>
+<p>Hurry! Email&nbsp;<a href="mailto:sg.sales@stardreamcruises.com?subject=CSC%20x%20Dream%20Cruises%20Promo" rel="noopener noreferrer nofollow" target="_blank">sg.sales@stardreamcruises.com</a>&nbsp;to
+enquire or book now!&nbsp;&nbsp;</p>
+<p></p>
 <h3>Tang Tea House</h3>
 <p></p>
 <div class="isomer-image-wrapper">
