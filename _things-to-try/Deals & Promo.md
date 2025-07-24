@@ -381,6 +381,23 @@ public officers!&nbsp;</p>
 <p>Hurry! Email&nbsp;<a href="mailto:sg.sales@stardreamcruises.com?subject=CSC%20x%20Dream%20Cruises%20Promo" rel="noopener noreferrer nofollow" target="_blank">sg.sales@stardreamcruises.com</a>&nbsp;to
 enquire or book now!&nbsp;&nbsp;</p>
 <p></p>
+<h3>Singlife</h3>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SingLife Promotion" src="/images/CSC_web_banner1__940px_x_788px_pdf__800_x_535_px_.jpg">
+</div>
+<p><strong>Public Officers</strong>
+</p>
+<p>PURCHASE ANY QUALIFYING POGIS PLAN FOR CSC MEMBERS (ORDINARY TERM/NCSS)
+AND GET FREE 12 MONTHS SINGLIFE HOME INSURANCE INCLUDING FAMILY CYBER RISK
+PROTECTOR BENEFIT + S$40 VOUCHERS</p>
+<p>&nbsp;</p>
+<p><em>**Refer to personnel working in government ministries, statutory boards or organs of state qualify except for full-time SAF servicemen, MINDEF DXOs and Home Team uniformed personnel.&nbsp;&nbsp;Voucher is only applicable to new customers who opt in to receive marketing updates from Singlife.</em>
+</p>
+<p></p>
+<p>Sign up or read more details <a href="https://singlife.com/en/promotions/pogis-csc" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;&nbsp;</p>
+<p></p>
 <h3>Tang Tea House</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -413,7 +430,7 @@ prior notice.</p>
 <p></p>
 <p>__________________________________________________</p>
 <p></p>
-<h3><strong>Membership Promotion</strong></h3>
+<h3></h3>
 <h3></h3>
 <h3></h3>
 <p></p>
