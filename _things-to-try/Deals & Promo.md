@@ -391,7 +391,7 @@ enquire or book now!&nbsp;&nbsp;</p>
 </p>
 <p>PURCHASE ANY QUALIFYING POGIS PLAN FOR CSC MEMBERS (ORDINARY TERM/NCSS)
 AND GET FREE 12 MONTHS SINGLIFE HOME INSURANCE INCLUDING FAMILY CYBER RISK
-PROTECTOR BENEFIT + S$40 VOUCHERS</p>
+PROTECTOR BENEFIT + S$40 VOUCHERS**</p>
 <p>&nbsp;</p>
 <p><em>**Refer to personnel working in government ministries, statutory boards or organs of state qualify except for full-time SAF servicemen, MINDEF DXOs and Home Team uniformed personnel.&nbsp;&nbsp;Voucher is only applicable to new customers who opt in to receive marketing updates from Singlife.</em>
 </p>

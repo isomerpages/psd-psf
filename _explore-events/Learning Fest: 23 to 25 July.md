@@ -48,6 +48,6 @@ by a panel dialogue</p>
 broaden mindset.</p>
 </li>
 </ul>
-<h3>For more details, please visit <strong><a href="https://go.gov.sg/pslf2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pslf2025</a></strong></h3>
+<h3>PSLF2025 is over, head over to LEARN to catch up on the sessions!<br><strong><a href="https://www.learn.gov.sg/Learning/Home" rel="noopener noreferrer nofollow" target="_blank">https://www.learn.gov.sg</a></strong></h3>
 <p></p>
 <p></p>
